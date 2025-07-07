@@ -1,4 +1,4 @@
-## Updated on 2025.07.06
+## Updated on 2025.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -531,7 +531,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## VLM
 
@@ -1410,7 +1410,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## VLA
 
@@ -1551,7 +1551,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Humanoid
 
@@ -1663,7 +1663,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Dexterous
 
@@ -1757,7 +1757,7 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Long-horizon Planning
 
@@ -1784,7 +1784,7 @@
 |**2025-06-13**|**Enhance Multimodal Consistency and Coherence for Text-Image Plan Generation**|Rui Zhang Team|[2506.11380](http://arxiv.org/abs/2506.11380)|null|
 |**2025-06-12**|**Robust Optimal Task Planning to Maximize Battery Life**|Dongmei Chen Team|[2506.11264](http://arxiv.org/abs/2506.11264)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Open Vocabulary Robotics
 
@@ -1811,7 +1811,7 @@
 |**2025-06-19**|**Reflective VLM Planning for Dual-Arm Desktop Cleaning: Bridging Open-Vocabulary Perception and Precise Manipulation**|Rui Liu Team|[2506.17328](http://arxiv.org/abs/2506.17328)|null|
 |**2025-06-24**|**Stepping Out of Similar Semantic Space for Open-Vocabulary Segmentation**|Yansong Tang Team|[2506.16058](http://arxiv.org/abs/2506.16058)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Robot Reasoning
 
@@ -1838,7 +1838,7 @@
 |**2025-06-26**|**Fine-Grained Preference Optimization Improves Spatial Reasoning in VLMs**|Ismini Lourentzou Team|[2506.21656](http://arxiv.org/abs/2506.21656)|null|
 |**2025-06-27**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Ziwei Liu Team|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Subtask Decomposition
 
@@ -1865,7 +1865,7 @@
 |**2025-05-28**|**Learning Composable Chains-of-Thought**|Greg Durrett Team|[2505.22635](http://arxiv.org/abs/2505.22635)|null|
 |**2025-05-28**|**AudioGenie: A Training-Free Multi-Agent Framework for Diverse Multimodality-to-Multiaudio Generation**|Li Liu Team|[2505.22053](http://arxiv.org/abs/2505.22053)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Robot Memory
 
@@ -1892,7 +1892,7 @@
 |**2025-06-18**|**Procedures for Constraining Robotic Fiber Positioning for Highly Multiplexed Spectroscopic Surveys: The Case of FPS for SDSS-V**|Keivan G. Stassun Team|[2506.15475](http://arxiv.org/abs/2506.15475)|null|
 |**2025-06-18**|**DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory**|Yue Gao Team|[2506.15096](http://arxiv.org/abs/2506.15096)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Temporal Understanding
 
@@ -1919,7 +1919,7 @@
 |**2025-06-10**|**FinHEAR: Human Expertise and Adaptive Risk-Aware Temporal Reasoning for Financial Decision-Making**|Zenglin Xu Team|[2506.09080](http://arxiv.org/abs/2506.09080)|null|
 |**2025-06-07**|**How Important are Videos for Training Video LLMs?**|Bastian Leibe Team|[2506.06928](http://arxiv.org/abs/2506.06928)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Robot Datasets
 
@@ -1946,7 +1946,7 @@
 |**2025-06-09**|**AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists**|Huan Sun Team|[2506.08140](http://arxiv.org/abs/2506.08140)|null|
 |**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Atsuto Maki Team|[2506.07539](http://arxiv.org/abs/2506.07539)|**[link](https://github.com/jacobhenningsson95/synmfg_code)**|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Multi-task Learning
 
@@ -1973,7 +1973,7 @@
 |**2025-07-01**|**ADAptation: Reconstruction-based Unsupervised Active Learning for Breast Ultrasound Diagnosis**|Tao Tan Team|[2507.00474](http://arxiv.org/abs/2507.00474)|null|
 |**2025-07-01**|**Few-shot Classification as Multi-instance Verification: Effective Backbone-agnostic Transfer across Domains**|Geoffrey Holmes Team|[2507.00401](http://arxiv.org/abs/2507.00401)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Robot Foundation Models
 
@@ -2000,7 +2000,7 @@
 |**2025-05-15**|**Towards Safe Robot Foundation Models Using Inductive Biases**|Jan Peters Team|[2505.10219](http://arxiv.org/abs/2505.10219)|null|
 |**2025-06-13**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Jia-Bin Huang Team|[2505.07815](http://arxiv.org/abs/2505.07815)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Vision Language Models
 
@@ -2027,5 +2027,5 @@
 |**2025-07-01**|**GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond**|Luc Van Gool Team|[2507.00886](http://arxiv.org/abs/2507.00886)|null|
 |**2025-07-01**|**UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement**|Xiangxiang Chu Team|[2507.00721](http://arxiv.org/abs/2507.00721)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
