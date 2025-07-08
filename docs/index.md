@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -1918,7 +1918,7 @@ layout: default
 |**2025-07-03**|**Cross-domain Hyperspectral Image Classification based on Bi-directional Domain Adaptation**|Shunlin Liang Team|[2507.02268](http://arxiv.org/abs/2507.02268)|null|
 |**2025-07-03**|**Transfer Learning for Matrix Completion**|Haolei Weng Team|[2507.02248](http://arxiv.org/abs/2507.02248)|null|
 |**2025-07-03**|**Domain-Adversarial Transfer Learning for Fault Root Cause Identification in Cloud Computing Systems**|Danyi Gao Team|[2507.02233](http://arxiv.org/abs/2507.02233)|null|
-|**2025-07-02**|**Team RAS in 9th ABAW Competition: Multimodal Compound Expression Recognition Approach**|Alexey Karpov Team|[2507.02205](http://arxiv.org/abs/2507.02205)|null|
+|**2025-07-04**|**Team RAS in 9th ABAW Competition: Multimodal Compound Expression Recognition Approach**|Alexey Karpov Team|[2507.02205](http://arxiv.org/abs/2507.02205)|null|
 |**2025-07-02**|**Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning**|Christopher Metzler Team|[2507.02148](http://arxiv.org/abs/2507.02148)|null|
 |**2025-07-02**|**Transfer Learning for VLC-based indoor Localization: Addressing Environmental Variability**|Alexander Artemenko Team|[2507.01575](http://arxiv.org/abs/2507.01575)|null|
 |**2025-07-02**|**How Weight Resampling and Optimizers Shape the Dynamics of Continual Learning and Forgetting in Neural Networks**|Nick Cheney Team|[2507.01559](http://arxiv.org/abs/2507.01559)|null|
@@ -1975,7 +1975,7 @@ layout: default
 |**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Xi Li Team|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
 |**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Jiawei Zhang Team|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
 |**2025-07-02**|**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**|Jie Tang Team|[2507.01006](http://arxiv.org/abs/2507.01006)|null|
-|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Yunzhu Li Team|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
+|**2025-07-04**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Yunzhu Li Team|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
 |**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Seyedali Mirjalili Team|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
 |**2025-07-01**|**The Age of Sensorial Zero Trust: Why We Can No Longer Trust Our Senses**|Fabio Correa Xavier Team|[2507.00907](http://arxiv.org/abs/2507.00907)|null|
 |**2025-07-01**|**ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models**|Yaqi Xie Team|[2507.00898](http://arxiv.org/abs/2507.00898)|null|
