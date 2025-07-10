@@ -387,4 +387,9 @@
 |**2025-07-01**|**GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond**|Luc Van Gool Team|[2507.00886](http://arxiv.org/abs/2507.00886)|null|
 |**2025-07-01**|**UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement**|Xiangxiang Chu Team|[2507.00721](http://arxiv.org/abs/2507.00721)|null|
 
+<<<<<<< HEAD
 <p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+=======
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+
+>>>>>>> 4b81eac19e3717289dbf45a3b048c7032fcfd632
