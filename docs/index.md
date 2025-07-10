@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -1746,7 +1746,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-08**|**GTA1: GUI Test-time Scaling Agent**|Junnan Li Team|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
+|**2025-07-09**|**GTA1: GUI Test-time Scaling Agent**|Junnan Li Team|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
 |**2025-07-08**|**Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube**|Shenghai Yuan Team|[2507.05607](http://arxiv.org/abs/2507.05607)|null|
 |**2025-07-07**|**LERa: Replanning with Visual Feedback in Instruction Following**|Aleksandr I. Panov Team|[2507.05135](http://arxiv.org/abs/2507.05135)|null|
 |**2025-07-07**|**VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots**|Aleksandr I. Panov Team|[2507.05118](http://arxiv.org/abs/2507.05118)|null|
@@ -1811,7 +1811,7 @@ layout: default
 |**2025-07-07**|**Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning**|Rong Shen Team|[2507.04702](http://arxiv.org/abs/2507.04702)|null|
 |**2025-07-07**|**Learn 3D VQA Better with Active Selection and Reannotation**|Feng Zheng Team|[2507.04630](http://arxiv.org/abs/2507.04630)|null|
 |**2025-07-05**|**Pedestrian Intention Prediction via Vision-Language Foundation Models**|He Wang Team|[2507.04141](http://arxiv.org/abs/2507.04141)|null|
-|**2025-07-05**|**Animation Needs Attention: A Holistic Approach to Slides Animation Comprehension with Visual-Language Models**|Changliang Xu Team|[2507.03916](http://arxiv.org/abs/2507.03916)|null|
+|**2025-07-09**|**Animation Needs Attention: A Holistic Approach to Slides Animation Comprehension with Visual-Language Models**|Changliang Xu Team|[2507.03916](http://arxiv.org/abs/2507.03916)|null|
 |**2025-07-04**|**Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation**|Zhixiang Lu Team|[2507.03585](http://arxiv.org/abs/2507.03585)|null|
 |**2025-07-01**|**Ascending the Infinite Ladder: Benchmarking Spatial Deformation Reasoning in Vision-Language Models**|Kaicheng Yu Team|[2507.02978](http://arxiv.org/abs/2507.02978)|null|
 |**2025-07-02**|**Effective Explanations for Belief-Desire-Intention Robots: When and What to Explain**|Verena Klös Team|[2507.02016](http://arxiv.org/abs/2507.02016)|null|
@@ -1901,7 +1901,7 @@ layout: default
 |**2025-07-08**|**DocTalk: Scalable Graph-based Dialogue Synthesis for Enhancing LLM Conversational Capabilities**|Haodong Wang Team|[2507.05750](http://arxiv.org/abs/2507.05750)|null|
 |**2025-07-07**|**HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding**|Xiang Bai Team|[2507.04909](http://arxiv.org/abs/2507.04909)|null|
 |**2025-07-07**|**Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning**|Rong Shen Team|[2507.04702](http://arxiv.org/abs/2507.04702)|null|
-|**2025-07-05**|**Animation Needs Attention: A Holistic Approach to Slides Animation Comprehension with Visual-Language Models**|Changliang Xu Team|[2507.03916](http://arxiv.org/abs/2507.03916)|null|
+|**2025-07-09**|**Animation Needs Attention: A Holistic Approach to Slides Animation Comprehension with Visual-Language Models**|Changliang Xu Team|[2507.03916](http://arxiv.org/abs/2507.03916)|null|
 |**2025-07-08**|**Future Slot Prediction for Unsupervised Object Discovery in Surgical Video**|Daniel A. Hashimoto Team|[2507.01882](http://arxiv.org/abs/2507.01882)|null|
 |**2025-07-01**|**CAVALRY-V: A Large-Scale Generator Framework for Adversarial Attacks on Video MLLMs**|Wei Yang Bryan Lim Team|[2507.00817](http://arxiv.org/abs/2507.00817)|null|
 |**2025-07-01**|**Box-QAymo: Box-Referring VQA Dataset for Autonomous Driving**|Yadan Luo Team|[2507.00525](http://arxiv.org/abs/2507.00525)|null|
@@ -1956,7 +1956,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-08**|**DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation**|Dionne Bang Team|[2507.06189](http://arxiv.org/abs/2507.06189)|null|
-|**2025-07-08**|**A Survey on Prompt Tuning**|Nigel Collier Team|[2507.06085](http://arxiv.org/abs/2507.06085)|null|
+|**2025-07-09**|**A Survey on Prompt Tuning**|Nigel Collier Team|[2507.06085](http://arxiv.org/abs/2507.06085)|null|
 |**2025-07-08**|**Contrastive and Transfer Learning for Effective Audio Fingerprinting through a Real-World Evaluation Protocol**|Theodoros Giannakopoulos Team|[2507.06070](http://arxiv.org/abs/2507.06070)|null|
 |**2025-07-08**|**Improving Robustness of Foundation Models in Domain Adaptation with Soup-Adapters**|Marco Roschkowski Team|[2507.05807](http://arxiv.org/abs/2507.05807)|null|
 |**2025-07-08**|**PSAT: Pediatric Segmentation Approaches via Adult Augmentations and Transfer Learning**|Philippe Meyer Team|[2507.05764](http://arxiv.org/abs/2507.05764)|null|
@@ -2037,13 +2037,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yi R. Fung Team|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Naga Harshita Marupaka Team|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
-|**2025-07-08**|**Skywork-R1V3 Technical Report**|Yahui Zhou Team|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-09**|**Skywork-R1V3 Technical Report**|Yahui Zhou Team|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Hongming Shan Team|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
 |**2025-07-08**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Hao Liu Team|[2507.05887](http://arxiv.org/abs/2507.05887)|null|
 |**2025-07-08**|**Bridging Perception and Language: A Systematic Benchmark for LVLMs' Understanding of Amodal Completion Reports**|Hitomi Yanaka Team|[2507.05799](http://arxiv.org/abs/2507.05799)|null|
 |**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Tao He Team|[2507.05798](http://arxiv.org/abs/2507.05798)|null|
 |**2025-07-08**|**A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation**|Yue Gao Team|[2507.05731](http://arxiv.org/abs/2507.05731)|null|
-|**2025-07-08**|**Integrated Structural Prompt Learning for Vision-Language Models**|Bin Luo Team|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
+|**2025-07-09**|**Integrated Structural Prompt Learning for Vision-Language Models**|Bin Luo Team|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
 |**2025-07-08**|**R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding**|Shabnam Ghadar Team|[2507.05673](http://arxiv.org/abs/2507.05673)|null|
 |**2025-07-08**|**Dynamic Rank Adaptation for Vision-Language Models**|Bin Luo Team|[2507.05668](http://arxiv.org/abs/2507.05668)|null|
 |**2025-07-08**|**Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube**|Shenghai Yuan Team|[2507.05607](http://arxiv.org/abs/2507.05607)|null|
