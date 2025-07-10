@@ -42,10 +42,10 @@ keywords:
     # --------- Memory & History ---------
     "Robot Memory":
         filters: ["Robot Memory", "Episodic Memory", "Working Memory", "Memory-augmented", "Historical Information", "Past Experience"]
-    
+
     "Temporal Understanding":
         filters: ["Temporal Reasoning", "Sequential Understanding", "History-aware", "Context Memory", "Long-term Memory"]
-    
+
     # --------- Datasets & Training ---------
     "Robot Datasets":
         filters: ["Robot Dataset", "Robotic Dataset", "Manipulation Dataset", "Robot Data", "Open Dataset"]
