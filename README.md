@@ -1,4 +1,4 @@
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2025-07-08**|**PAPRLE (Plug-And-Play Robotic Limb Environment): A Modular Ecosystem for Robotic Limbs**|Joohyung Kim Team|[2507.05555](http://arxiv.org/abs/2507.05555)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Cheng Lu Team|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
 |**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Xingang Wang Team|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
-|**2025-07-07**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Yanzhi Wang Team|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
+|**2025-07-10**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Yanzhi Wang Team|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
 |**2025-07-07**|**Training-free Generation of Temporally Consistent Rewards from VLMs**|Jian Tang Team|[2507.04789](http://arxiv.org/abs/2507.04789)|null|
 |**2025-07-06**|**SimLauncher: Launching Sample-Efficient Real-world Robotic Reinforcement Learning via Simulation Pre-training**|Hao Dong Team|[2507.04452](http://arxiv.org/abs/2507.04452)|null|
 |**2025-07-06**|**DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge**|Xin Jin Team|[2507.04447](http://arxiv.org/abs/2507.04447)|null|
@@ -45,14 +45,14 @@
 |**2025-07-01**|**A Survey: Learning Embodied Intelligence from Physical Simulators and World Models**|Qionghai Dai Team|[2507.00917](http://arxiv.org/abs/2507.00917)|null|
 |**2025-07-01**|**Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding**|Bo Zhao Team|[2507.00416](http://arxiv.org/abs/2507.00416)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Long-horizon Planning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-09**|**LOVON: Legged Open-Vocabulary Object Navigator**|Jun Ma Team|[2507.06747](http://arxiv.org/abs/2507.06747)|null|
-|**2025-07-09**|**GTA1: GUI Test-time Scaling Agent**|Junnan Li Team|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
+|**2025-07-10**|**GTA1: GUI Test-time Scaling Agent**|Junnan Li Team|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
 |**2025-07-08**|**Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube**|Shenghai Yuan Team|[2507.05607](http://arxiv.org/abs/2507.05607)|null|
 |**2025-07-07**|**LERa: Replanning with Visual Feedback in Instruction Following**|Aleksandr I. Panov Team|[2507.05135](http://arxiv.org/abs/2507.05135)|null|
 |**2025-07-07**|**VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots**|Aleksandr I. Panov Team|[2507.05118](http://arxiv.org/abs/2507.05118)|null|
@@ -61,7 +61,7 @@
 |**2025-07-02**|**VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**|Alexander Carballo Team|[2507.01284](http://arxiv.org/abs/2507.01284)|null|
 |**2025-06-29**|**Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning**|Xipeng Qiu Team|[2506.23127](http://arxiv.org/abs/2506.23127)|null|
 |**2025-06-29**|**TOMI: Transforming and Organizing Music Ideas for Multi-Track Compositions with Full-Song Structure**|Ziyu Wang Team|[2506.23094](http://arxiv.org/abs/2506.23094)|null|
-|**2025-07-08**|**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**|Navid Azizan Team|[2506.22827](http://arxiv.org/abs/2506.22827)|null|
+|**2025-07-10**|**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**|Navid Azizan Team|[2506.22827](http://arxiv.org/abs/2506.22827)|null|
 |**2025-06-24**|**FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models**|Huiping Zhuang Team|[2506.21627](http://arxiv.org/abs/2506.21627)|null|
 |**2025-06-26**|**MedPrompt: LLM-CNN Fusion with Weight Routing for Medical Image Segmentation and Classification**|Abduz Zami Team|[2506.21199](http://arxiv.org/abs/2506.21199)|null|
 |**2025-06-26**|**STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner**|Yue Yufeng Team|[2506.21030](http://arxiv.org/abs/2506.21030)|null|
@@ -73,7 +73,7 @@
 |**2025-06-20**|**Towards AI Search Paradigm**|Dawei Yin Team|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
 |**2025-06-20**|**Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning**|Guillaume Adrien Sartoretti Team|[2506.16931](http://arxiv.org/abs/2506.16931)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Open Vocabulary Robotics
 
@@ -103,7 +103,7 @@
 |**2025-06-23**|**Context Biasing for Pronunciations-Orthography Mismatch in Automatic Speech Recognition**|Alexander Waibel Team|[2506.18703](http://arxiv.org/abs/2506.18703)|null|
 |**2025-06-21**|**DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving**|Zhengzhong Tu Team|[2506.17590](http://arxiv.org/abs/2506.17590)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Robot Reasoning
 
@@ -133,7 +133,7 @@
 |**2025-06-29**|**Enhancing Spatial Reasoning in Multimodal Large Language Models through Reasoning-based Segmentation**|Li Jiang Team|[2506.23120](http://arxiv.org/abs/2506.23120)|null|
 |**2025-06-28**|**MARBLE: A Hard Benchmark for Multimodal Spatial Reasoning and Planning**|Michael Moor Team|[2506.22992](http://arxiv.org/abs/2506.22992)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Subtask Decomposition
 
@@ -160,13 +160,13 @@
 |**2025-05-28**|**Learning Composable Chains-of-Thought**|Greg Durrett Team|[2505.22635](http://arxiv.org/abs/2505.22635)|null|
 |**2025-05-28**|**AudioGenie: A Training-Free Multi-Agent Framework for Diverse Multimodality-to-Multiaudio Generation**|Li Liu Team|[2505.22053](http://arxiv.org/abs/2505.22053)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Robot Memory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-08**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Wangchunshu Zhou Team|[2507.06229](http://arxiv.org/abs/2507.06229)|null|
+|**2025-07-10**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Wangchunshu Zhou Team|[2507.06229](http://arxiv.org/abs/2507.06229)|null|
 |**2025-07-08**|**Unconditional Diffusion for Generative Sequential Recommendation**|Tat-Seng Chua Team|[2507.06121](http://arxiv.org/abs/2507.06121)|null|
 |**2025-07-07**|**Heterogeneous Causal Learning for Optimizing Aggregated Functions in User Growth**|Will Y. Zou Team|[2507.05510](http://arxiv.org/abs/2507.05510)|null|
 |**2025-07-07**|**Dynamical Archetype Analysis: Autonomous Computation**|Il Memming Park Team|[2507.05505](http://arxiv.org/abs/2507.05505)|null|
@@ -187,7 +187,7 @@
 |**2025-07-03**|**Reliability-Adjusted Prioritized Experience Replay**|Maximilian Schiffer Team|[2506.18482](http://arxiv.org/abs/2506.18482)|null|
 |**2025-06-22**|**Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation**|Teng Li Team|[2506.18158](http://arxiv.org/abs/2506.18158)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Temporal Understanding
 
@@ -215,7 +215,7 @@
 |**2025-06-24**|**DaMO: A Data-Efficient Multimodal Orchestrator for Temporal Reasoning with Video LLMs**|Feng-Chi Chen Team|[2506.11558](http://arxiv.org/abs/2506.11558)|null|
 |**2025-06-12**|**VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos**|Limin Wang Team|[2506.10857](http://arxiv.org/abs/2506.10857)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Robot Datasets
 
@@ -243,14 +243,14 @@
 |**2025-06-16**|**What Matters in Learning from Large-Scale Datasets for Robot Manipulation**|Danfei Xu Team|[2506.13536](http://arxiv.org/abs/2506.13536)|null|
 |**2025-06-11**|**R-CARLA: High-Fidelity Sensor Simulations with Interchangeable Dynamics for Autonomous Racing**|Michele Magno Team|[2506.09629](http://arxiv.org/abs/2506.09629)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Multi-task Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-09**|**Deep Brain Net: An Optimized Deep Learning Model for Brain tumor Detection in MRI Images Using EfficientNetB0 and ResNet50 with Transfer Learning**|Ravish Desai Team|[2507.07011](http://arxiv.org/abs/2507.07011)|null|
-|**2025-07-09**|**Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining: Method, Evaluation and Applications**|Byoung-Ki Jeon Team|[2507.06795](http://arxiv.org/abs/2507.06795)|null|
+|**2025-07-10**|**ixi-GEN: Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining**|Byoung-Ki Jeon Team|[2507.06795](http://arxiv.org/abs/2507.06795)|null|
 |**2025-07-09**|**Tailoring deep learning for real-time brain-computer interfaces: From offline models to calibration-free online decoding**|Bin Yang Team|[2507.06779](http://arxiv.org/abs/2507.06779)|null|
 |**2025-07-09**|**On the Hardness of Unsupervised Domain Adaptation: Optimal Learners and Information-Theoretic Perspective**|Yongyi Mao Team|[2507.06552](http://arxiv.org/abs/2507.06552)|null|
 |**2025-07-08**|**Bridging Data Gaps of Rare Conditions in ICU: A Multi-Disease Adaptation Approach for Clinical Prediction**|Tingting Zhu Team|[2507.06432](http://arxiv.org/abs/2507.06432)|null|
@@ -276,7 +276,7 @@
 |**2025-07-06**|**Mixed-Sample SGD: an End-to-end Analysis of Supervised Transfer Learning**|Samory Kpotufe Team|[2507.04194](http://arxiv.org/abs/2507.04194)|null|
 |**2025-07-05**|**When Data-Free Knowledge Distillation Meets Non-Transferable Teacher: Escaping Out-of-Distribution Trap is All You Need**|Tongliang Liu Team|[2507.04119](http://arxiv.org/abs/2507.04119)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Robot Foundation Models
 
@@ -303,7 +303,7 @@
 |**2025-05-17**|**OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning**|Yang Gao Team|[2505.11917](http://arxiv.org/abs/2505.11917)|null|
 |**2025-05-15**|**Towards Safe Robot Foundation Models Using Inductive Biases**|Jan Peters Team|[2505.10219](http://arxiv.org/abs/2505.10219)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Vision Language Models
 
@@ -324,7 +324,7 @@
 |**2025-07-08**|**VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**|Andreas A. Malikopoulos Team|[2507.06441](http://arxiv.org/abs/2507.06441)|null|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yi R. Fung Team|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Naga Harshita Marupaka Team|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
-|**2025-07-09**|**Skywork-R1V3 Technical Report**|Yahui Zhou Team|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-10**|**Skywork-R1V3 Technical Report**|Yahui Zhou Team|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Hongming Shan Team|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
 |**2025-07-08**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Hao Liu Team|[2507.05887](http://arxiv.org/abs/2507.05887)|null|
 |**2025-07-08**|**Bridging Perception and Language: A Systematic Benchmark for LVLMs' Understanding of Amodal Completion Reports**|Hitomi Yanaka Team|[2507.05799](http://arxiv.org/abs/2507.05799)|null|
@@ -343,5 +343,5 @@
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Cheng Lu Team|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
 |**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Rao Muhammad Anwer Team|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
