@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Lei Fan Team|[2507.08496](http://arxiv.org/abs/2507.08496)|null|
 |**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Mingming Gong Team|[2507.07781](http://arxiv.org/abs/2507.07781)|null|
 |**2025-07-09**|**A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding**|Yanwei Fu Team|[2507.06719](http://arxiv.org/abs/2507.06719)|null|
 |**2025-07-09**|**3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds**|Nick Haber Team|[2507.06484](http://arxiv.org/abs/2507.06484)|null|
@@ -113,6 +114,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Subarna Tripathi Team|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
+|**2025-07-11**|**M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning**|Ziping Ma Team|[2507.08306](http://arxiv.org/abs/2507.08306)|null|
+|**2025-07-11**|**InsightBuild: LLM-Powered Causal Reasoning in Smart Building Systems**|Rajiv Ramnath Team|[2507.08235](http://arxiv.org/abs/2507.08235)|null|
 |**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|Jiangmiao Pang Team|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
 |**2025-07-10**|**Scaling RL to Long Videos**|Song Han Team|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
 |**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Mingming Gong Team|[2507.07781](http://arxiv.org/abs/2507.07781)|null|
@@ -235,6 +239,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Changjae Oh Team|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
 |**2025-07-09**|**Evaluating Large Multimodal Models for Nutrition Analysis: A Benchmark Enriched with Contextual Metadata**|Fengqing Zhu Team|[2507.07048](http://arxiv.org/abs/2507.07048)|null|
 |**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Hongyang Li Team|[2507.06219](http://arxiv.org/abs/2507.06219)|null|
 |**2025-07-07**|**A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**|Russ Tedrake Team|[2507.05331](http://arxiv.org/abs/2507.05331)|null|
@@ -263,6 +268,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning**|Tao Chen Team|[2507.08730](http://arxiv.org/abs/2507.08730)|null|
+|**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Lizhuang Ma Team|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
+|**2025-07-11**|**MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**|Dan Guo Team|[2507.08344](http://arxiv.org/abs/2507.08344)|null|
+|**2025-07-11**|**Cross-Resolution SAR Target Detection Using Structural Hierarchy Adaptation and Reliable Adjacency Alignment**|Lamei Zhang Team|[2507.08290](http://arxiv.org/abs/2507.08290)|null|
+|**2025-07-11**|**Transfer Learning and Mixup for Fine-Grained Few-Shot Fungi Classification**|Anthony Miyaguchi Team|[2507.08248](http://arxiv.org/abs/2507.08248)|null|
+|**2025-07-10**|**An Embedded Real-time Object Alert System for Visually Impaired: A Monocular Depth Estimation based Approach through Computer Vision**|Md. Ishan Arefin Hossain Team|[2507.08165](http://arxiv.org/abs/2507.08165)|null|
+|**2025-07-10**|**An Object-Based Deep Learning Approach for Building Height Estimation from Single SAR Images**|Paolo Gamba Team|[2507.08096](http://arxiv.org/abs/2507.08096)|null|
+|**2025-07-08**|**Self-Consistency in Vision-Language Models for Precision Agriculture: Multi-Response Consensus for Crop Disease Management**|Pratik Desai Team|[2507.08024](http://arxiv.org/abs/2507.08024)|null|
 |**2025-07-11**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Yi-Zhe Song Team|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-10**|**Not Only Consistency: Enhance Test-Time Adaptation with Spatio-temporal Inconsistency for Remote Physiological Measurement**|Dengbo He Team|[2507.07908](http://arxiv.org/abs/2507.07908)|null|
 |**2025-07-10**|**BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning**|Yize Chen Team|[2507.07769](http://arxiv.org/abs/2507.07769)|null|
@@ -328,6 +341,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Subarna Tripathi Team|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
+|**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|András Lőrincz Team|[2507.08624](http://arxiv.org/abs/2507.08624)|null|
+|**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Ambedkar Dukkipati Team|[2507.08610](http://arxiv.org/abs/2507.08610)|null|
+|**2025-07-11**|**BayesTTA: Continual-Temporal Test-Time Adaptation for Vision-Language Models via Gaussian Discriminant Analysis**|Hui Xiong Team|[2507.08607](http://arxiv.org/abs/2507.08607)|null|
+|**2025-07-11**|**Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R**|Sanidhya Kashyap Team|[2507.08505](http://arxiv.org/abs/2507.08505)|null|
+|**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Lei Fan Team|[2507.08496](http://arxiv.org/abs/2507.08496)|null|
+|**2025-07-11**|**Multi-modal Mutual-Guidance Conditional Prompt Learning for Vision-Language Models**|Jianping Fan Team|[2507.08410](http://arxiv.org/abs/2507.08410)|null|
+|**2025-07-11**|**Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning**|Yejin Choi Team|[2507.08224](http://arxiv.org/abs/2507.08224)|null|
 |**2025-07-10**|**CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why**|Thomas Brox Team|[2507.07985](http://arxiv.org/abs/2507.07985)|null|
 |**2025-07-10**|**Scaling RL to Long Videos**|Song Han Team|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
 |**2025-07-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Lei Fan Team|[2507.07939](http://arxiv.org/abs/2507.07939)|null|
