@@ -22,6 +22,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Libo Qin Team|[2507.09876](http://arxiv.org/abs/2507.09876)|null|
+|**2025-07-12**|**Online Long-term Point Tracking in the Foundation Model Era**|Görkay Aydemir Team|[2507.09217](http://arxiv.org/abs/2507.09217)|null|
+|**2025-07-12**|**Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization**|Yang Gao Team|[2507.09160](http://arxiv.org/abs/2507.09160)|null|
+|**2025-07-05**|**View Invariant Learning for Vision-Language Navigation in Continuous Environments**|Mark Crowley Team|[2507.08831](http://arxiv.org/abs/2507.08831)|null|
 |**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Lei Fan Team|[2507.08496](http://arxiv.org/abs/2507.08496)|null|
 |**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Mingming Gong Team|[2507.07781](http://arxiv.org/abs/2507.07781)|null|
 |**2025-07-09**|**A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding**|Yanwei Fu Team|[2507.06719](http://arxiv.org/abs/2507.06719)|null|
@@ -82,6 +86,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**OpenHuman4D: Open-Vocabulary 4D Human Parsing**|Truong Nguyen Team|[2507.09880](http://arxiv.org/abs/2507.09880)|null|
+|**2025-07-11**|**VISTA: A Visual Analytics Framework to Enhance Foundation Model-Generated Data Labels**|Liu Ren Team|[2507.09008](http://arxiv.org/abs/2507.09008)|null|
+|**2025-07-08**|**OTAS: Open-vocabulary Token Alignment for Outdoor Segmentation**|Gerald Steinbauer-Wagner Team|[2507.08851](http://arxiv.org/abs/2507.08851)|null|
 |**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Renaud Marlet Team|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
 |**2025-07-09**|**LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS**|Hanspeter Pfister Team|[2507.07136](http://arxiv.org/abs/2507.07136)|null|
 |**2025-07-09**|**LOVON: Legged Open-Vocabulary Object Navigator**|Jun Ma Team|[2507.06747](http://arxiv.org/abs/2507.06747)|null|
@@ -114,6 +121,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Xiaojuan Qi Team|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
+|**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Guillaume Rabusseau Team|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
+|**2025-07-13**|**GLIMPSE: Do Large Vision-Language Models Truly Think With Videos or Just Glimpse at Them?**|Huaxiu Yao Team|[2507.09491](http://arxiv.org/abs/2507.09491)|null|
+|**2025-07-12**|**Online Long-term Point Tracking in the Foundation Model Era**|Görkay Aydemir Team|[2507.09217](http://arxiv.org/abs/2507.09217)|null|
 |**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Subarna Tripathi Team|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
 |**2025-07-11**|**M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning**|Ziping Ma Team|[2507.08306](http://arxiv.org/abs/2507.08306)|null|
 |**2025-07-11**|**InsightBuild: LLM-Powered Causal Reasoning in Smart Building Systems**|Rajiv Ramnath Team|[2507.08235](http://arxiv.org/abs/2507.08235)|null|
@@ -153,6 +164,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-13**|**GoalfyMax: A Protocol-Driven Multi-Agent System for Intelligent Experience Entities**|Tianyu Shi Team|[2507.09497](http://arxiv.org/abs/2507.09497)|null|
 |**2025-07-10**|**Collaborative Human-Robot Surgery for Mandibular Angle Split Osteotomy: Optical Tracking based Approach**|Xingguang Duan Team|[2507.07794](http://arxiv.org/abs/2507.07794)|null|
 |**2025-07-10**|**PLAN-TUNING: Post-Training Language Models to Learn Step-by-Step Planning for Complex Problem Solving**|Tomas Pfister Team|[2507.07495](http://arxiv.org/abs/2507.07495)|null|
 |**2025-06-26**|**ViStruct: Simulating Expert-Like Reasoning Through Task Decomposition and Visual Attention Cues**|Carolina Nobre Team|[2506.21762](http://arxiv.org/abs/2506.21762)|null|
@@ -187,7 +199,7 @@
 |**2025-07-07**|**Heterogeneous Causal Learning for Optimizing Aggregated Functions in User Growth**|Will Y. Zou Team|[2507.05510](http://arxiv.org/abs/2507.05510)|null|
 |**2025-07-07**|**Dynamical Archetype Analysis: Autonomous Computation**|Il Memming Park Team|[2507.05505](http://arxiv.org/abs/2507.05505)|null|
 |**2025-07-07**|**Transcribing Spanish Texts from the Past: Experiments with Transkribus, Tesseract and Granite**|Ana García-Serrano Team|[2507.04878](http://arxiv.org/abs/2507.04878)|null|
-|**2025-07-07**|**PRIME: Large Language Model Personalization with Cognitive Memory and Thought Processes**|Lu Wang Team|[2507.04607](http://arxiv.org/abs/2507.04607)|null|
+|**2025-07-14**|**PRIME: Large Language Model Personalization with Cognitive Memory and Thought Processes**|Lu Wang Team|[2507.04607](http://arxiv.org/abs/2507.04607)|null|
 |**2025-07-06**|**Entropy measures as indicators of connectivity paths in the human brain**|Holger Kantz Team|[2507.04442](http://arxiv.org/abs/2507.04442)|null|
 |**2025-07-04**|**Less is More: Empowering GUI Agent with Context-Aware Simplification**|Liqiang Nie Team|[2507.03730](http://arxiv.org/abs/2507.03730)|null|
 |**2025-06-25**|**Echo State Transformer: When chaos brings memory**|Xavier Hinaut Team|[2507.02917](http://arxiv.org/abs/2507.02917)|null|
@@ -209,6 +221,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Guillaume Rabusseau Team|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
+|**2025-07-13**|**GLIMPSE: Do Large Vision-Language Models Truly Think With Videos or Just Glimpse at Them?**|Huaxiu Yao Team|[2507.09491](http://arxiv.org/abs/2507.09491)|null|
+|**2025-07-12**|**Online Long-term Point Tracking in the Foundation Model Era**|Görkay Aydemir Team|[2507.09217](http://arxiv.org/abs/2507.09217)|null|
 |**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|Jiangmiao Pang Team|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
 |**2025-07-10**|**Scaling RL to Long Videos**|Song Han Team|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
 |**2025-07-09**|**Temporal Information Retrieval via Time-Specifier Model Merging**|Jong C. Park Team|[2507.06782](http://arxiv.org/abs/2507.06782)|null|
@@ -239,6 +254,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Devanagari Handwritten Character Recognition using Convolutional Neural Network**|Prateek Mehta Team|[2507.10398](http://arxiv.org/abs/2507.10398)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Changjae Oh Team|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
 |**2025-07-09**|**Evaluating Large Multimodal Models for Nutrition Analysis: A Benchmark Enriched with Contextual Metadata**|Fengqing Zhu Team|[2507.07048](http://arxiv.org/abs/2507.07048)|null|
 |**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Hongyang Li Team|[2507.06219](http://arxiv.org/abs/2507.06219)|null|
@@ -268,7 +284,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-11**|**Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning**|Tao Chen Team|[2507.08730](http://arxiv.org/abs/2507.08730)|null|
+|**2025-07-14**|**National level satellite-based crop field inventories in smallholder landscapes**|Patrick Meyfroidt Team|[2507.10499](http://arxiv.org/abs/2507.10499)|null|
+|**2025-07-14**|**Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence**|Junbo Zhao Team|[2507.10281](http://arxiv.org/abs/2507.10281)|null|
+|**2025-07-14**|**Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval**|Zhedong Zheng Team|[2507.10195](http://arxiv.org/abs/2507.10195)|null|
+|**2025-07-14**|**Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**|Frank-Michael Schleif Team|[2507.10160](http://arxiv.org/abs/2507.10160)|null|
+|**2025-07-14**|**A Transfer Learning-Based Method for Water Body Segmentation in Remote Sensing Imagery: A Case Study of the Zhada Tulin Area**|Xin Tong Team|[2507.10084](http://arxiv.org/abs/2507.10084)|null|
+|**2025-07-14**|**Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI**|Benoît Macq Team|[2507.09996](http://arxiv.org/abs/2507.09996)|null|
+|**2025-07-14**|**Statistical Inference for Conditional Group Distributionally Robust Optimization with Cross-Entropy Loss**|Francis Bach Team|[2507.09905](http://arxiv.org/abs/2507.09905)|null|
+|**2025-07-13**|**Low-Rank Adaptation of Deep Prior Neural Networks For Room Impulse Response Reconstruction**|Fabio Antonacci Team|[2507.09806](http://arxiv.org/abs/2507.09806)|null|
+|**2025-07-13**|**Pre-trained Under Noise: A Framework for Robust Bone Fracture Detection in Medical Imaging**|Chengcheng Li Team|[2507.09731](http://arxiv.org/abs/2507.09731)|null|
+|**2025-07-13**|**Hybrid Quantum-Classical Generative Adversarial Networks with Transfer Learning**|Ebrahim Ardeshir Larijani Team|[2507.09706](http://arxiv.org/abs/2507.09706)|null|
+|**2025-07-13**|**NMIXX: Domain-Adapted Neural Embeddings for Cross-Lingual eXploration of Finance**|Youngjae Yu Team|[2507.09601](http://arxiv.org/abs/2507.09601)|null|
+|**2025-07-13**|**Enhancing ALS Progression Tracking with Semi-Supervised ALSFRS-R Scores Estimated from Ambient Home Health Monitoring**|Xing Song Team|[2507.09460](http://arxiv.org/abs/2507.09460)|null|
+|**2025-07-12**|**Domain Adaptation and Multi-view Attention for Learnable Landmark Tracking with Sparse Data**|Karthik Dantu Team|[2507.09420](http://arxiv.org/abs/2507.09420)|null|
+|**2025-07-12**|**EduFlow: Advancing MLLMs' Problem-Solving Proficiency through Multi-Stage, Multi-Perspective Critique**|Jian Xie Team|[2507.09374](http://arxiv.org/abs/2507.09374)|null|
+|**2025-07-12**|**Simplifying Traffic Anomaly Detection with Video Foundation Models**|Gijs Dubbelman Team|[2507.09338](http://arxiv.org/abs/2507.09338)|null|
+|**2025-07-12**|**Calibrated and Robust Foundation Models for Vision-Language and Medical Image Tasks Under Distribution Shift**|Tahir Syed Team|[2507.09222](http://arxiv.org/abs/2507.09222)|null|
+|**2025-07-12**|**CycleGAN-Driven Transfer Learning for Electronics Response Emulation in High-Purity Germanium Detectors**|Aobo Li Team|[2507.09106](http://arxiv.org/abs/2507.09106)|null|
+|**2025-07-11**|**Domain Adaptation-Enabled Realistic Map-Based Channel Estimation for MIMO-OFDM**|Georges Kaddoum Team|[2507.08974](http://arxiv.org/abs/2507.08974)|null|
+|**2025-07-11**|**The Bayesian Approach to Continual Learning: An Overview**|Tameem Adel Team|[2507.08922](http://arxiv.org/abs/2507.08922)|null|
+|**2025-07-14**|**Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning**|Tao Chen Team|[2507.08730](http://arxiv.org/abs/2507.08730)|null|
 |**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Lizhuang Ma Team|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
 |**2025-07-11**|**MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**|Dan Guo Team|[2507.08344](http://arxiv.org/abs/2507.08344)|null|
 |**2025-07-11**|**Cross-Resolution SAR Target Detection Using Structural Hierarchy Adaptation and Reliable Adjacency Alignment**|Lamei Zhang Team|[2507.08290](http://arxiv.org/abs/2507.08290)|null|
@@ -314,6 +349,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Foundation Model Driven Robotics: A Comprehensive Review**|Ammar Waheed Team|[2507.10087](http://arxiv.org/abs/2507.10087)|null|
+|**2025-07-14**|**Hand Gesture Recognition for Collaborative Robots Using Lightweight Deep Learning in Real-Time Robotic Systems**|Mauridhi Hery Purnomo Team|[2507.10055](http://arxiv.org/abs/2507.10055)|null|
 |**2025-07-07**|**A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**|Russ Tedrake Team|[2507.05331](http://arxiv.org/abs/2507.05331)|null|
 |**2025-06-30**|**World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation**|Lin Shao Team|[2506.23919](http://arxiv.org/abs/2506.23919)|null|
 |**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Dongzhan Zhou Team|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
@@ -341,6 +378,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Xiaojuan Qi Team|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
+|**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Yi Wang Team|[2507.10449](http://arxiv.org/abs/2507.10449)|null|
+|**2025-07-14**|**Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**|Bin Luo Team|[2507.10355](http://arxiv.org/abs/2507.10355)|null|
+|**2025-07-14**|**Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection**|Wenqiang Zhang Team|[2507.10225](http://arxiv.org/abs/2507.10225)|null|
+|**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Kay-Ulrich Scholl Team|[2507.10106](http://arxiv.org/abs/2507.10106)|null|
+|**2025-07-14**|**Foundation Model Driven Robotics: A Comprehensive Review**|Ammar Waheed Team|[2507.10087](http://arxiv.org/abs/2507.10087)|null|
+|**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhinav Dhall Team|[2507.10066](http://arxiv.org/abs/2507.10066)|null|
+|**2025-07-14**|**CoSMo: A Multimodal Transformer for Page Stream Segmentation in Comic Books**|Dimosthenis Karatzas Team|[2507.10053](http://arxiv.org/abs/2507.10053)|null|
+|**2025-07-14**|**Text-Driven Causal Representation Learning for Source-Free Domain Generalization**|Zhen Lei Team|[2507.09961](http://arxiv.org/abs/2507.09961)|null|
+|**2025-07-13**|**NegRefine: Refining Negative Label-Based Zero-Shot OOD Detection**|Pulei Xiong Team|[2507.09795](http://arxiv.org/abs/2507.09795)|null|
+|**2025-07-13**|**Towards Fine-Grained Adaptation of CLIP via a Self-Trained Alignment Score**|Muhammad Haris Khan Team|[2507.09615](http://arxiv.org/abs/2507.09615)|null|
+|**2025-07-13**|**Advancing Reliable Test-Time Adaptation of Vision-Language Models under Visual Variations**|Guiguang Ding Team|[2507.09500](http://arxiv.org/abs/2507.09500)|null|
+|**2025-07-13**|**GLIMPSE: Do Large Vision-Language Models Truly Think With Videos or Just Glimpse at Them?**|Huaxiu Yao Team|[2507.09491](http://arxiv.org/abs/2507.09491)|null|
+|**2025-07-12**|**Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models**|Tat-Seng Chua Team|[2507.09209](http://arxiv.org/abs/2507.09209)|null|
+|**2025-07-12**|**MCA-LLaVA: Manhattan Causal Attention for Reducing Hallucination in Large Vision-Language Models**|Dahan Wang Team|[2507.09184](http://arxiv.org/abs/2507.09184)|null|
+|**2025-07-12**|**OPENXRD: A Comprehensive Benchmark and Enhancement Framework for LLM/MLLM XRD Question Answering**|Niaz Abdolrahim Team|[2507.09155](http://arxiv.org/abs/2507.09155)|null|
+|**2025-07-12**|**RadEyeVideo: Enhancing general-domain Large Vision Language Model for chest X-ray analysis with video representations of eye gaze**|Honghan Wu Team|[2507.09097](http://arxiv.org/abs/2507.09097)|null|
+|**2025-07-11**|**BlindSight: Harnessing Sparsity for Efficient VLMs**|Steven K. Reinhardt Team|[2507.09071](http://arxiv.org/abs/2507.09071)|null|
+|**2025-07-11**|**Beyond vividness: Content analysis of induced hallucinations reveals the hidden structure of individual differences in visual imagery**|Seana Coulson Team|[2507.09011](http://arxiv.org/abs/2507.09011)|null|
+|**2025-07-11**|**VIP: Visual Information Protection through Adversarial Attacks on Vision-Language Models**|Olivier Déforges Team|[2507.08982](http://arxiv.org/abs/2507.08982)|null|
 |**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Subarna Tripathi Team|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
 |**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|András Lőrincz Team|[2507.08624](http://arxiv.org/abs/2507.08624)|null|
 |**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Ambedkar Dukkipati Team|[2507.08610](http://arxiv.org/abs/2507.08610)|null|
