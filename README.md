@@ -22,6 +22,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization**|Qijun Chen Team|[2507.10894](http://arxiv.org/abs/2507.10894)|null|
+|**2025-07-14**|**React to This (RTT): A Nonverbal Turing Test for Embodied AI**|Angelica Lim Team|[2507.10812](http://arxiv.org/abs/2507.10812)|null|
+|**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Irfan Hussain Team|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
 |**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Libo Qin Team|[2507.09876](http://arxiv.org/abs/2507.09876)|null|
 |**2025-07-12**|**Online Long-term Point Tracking in the Foundation Model Era**|Görkay Aydemir Team|[2507.09217](http://arxiv.org/abs/2507.09217)|null|
 |**2025-07-12**|**Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization**|Yang Gao Team|[2507.09160](http://arxiv.org/abs/2507.09160)|null|
@@ -57,6 +60,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League**|Shohei Yasuda Team|[2507.11402](http://arxiv.org/abs/2507.11402)|null|
 |**2025-07-10**|**Goal-Oriented Sequential Bayesian Experimental Design for Causal Learning**|Xun Huan Team|[2507.07359](http://arxiv.org/abs/2507.07359)|null|
 |**2025-07-09**|**LOVON: Legged Open-Vocabulary Object Navigator**|Jun Ma Team|[2507.06747](http://arxiv.org/abs/2507.06747)|null|
 |**2025-07-10**|**GTA1: GUI Test-time Scaling Agent**|Junnan Li Team|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
@@ -86,6 +90,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**|Fatih Porikli Team|[2507.11030](http://arxiv.org/abs/2507.11030)|null|
+|**2025-07-14**|**LLM-Guided Agentic Object Detection for Open-World Understanding**|Yasin Yilmaz Team|[2507.10844](http://arxiv.org/abs/2507.10844)|null|
 |**2025-07-14**|**OpenHuman4D: Open-Vocabulary 4D Human Parsing**|Truong Nguyen Team|[2507.09880](http://arxiv.org/abs/2507.09880)|null|
 |**2025-07-11**|**VISTA: A Visual Analytics Framework to Enhance Foundation Model-Generated Data Labels**|Liu Ren Team|[2507.09008](http://arxiv.org/abs/2507.09008)|null|
 |**2025-07-08**|**OTAS: Open-vocabulary Token Alignment for Outdoor Segmentation**|Gerald Steinbauer-Wagner Team|[2507.08851](http://arxiv.org/abs/2507.08851)|null|
@@ -121,6 +127,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Warehouse Spatial Question Answering with LLM Agent**|Jenq-Neng Hwang Team|[2507.10778](http://arxiv.org/abs/2507.10778)|null|
+|**2025-07-14**|**Spatial Reasoners for Continuous Variables in Any Domain**|Jan Eric Lenssen Team|[2507.10768](http://arxiv.org/abs/2507.10768)|null|
+|**2025-07-14**|**CWNet: Causal Wavelet Network for Low-Light Image Enhancement**|Qiuzhan Zhou Team|[2507.10689](http://arxiv.org/abs/2507.10689)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Xiaojuan Qi Team|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Guillaume Rabusseau Team|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
 |**2025-07-13**|**GLIMPSE: Do Large Vision-Language Models Truly Think With Videos or Just Glimpse at Them?**|Huaxiu Yao Team|[2507.09491](http://arxiv.org/abs/2507.09491)|null|
@@ -194,6 +203,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Jiwen Lu Team|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
+|**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Tianming Liu Team|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-10**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Wangchunshu Zhou Team|[2507.06229](http://arxiv.org/abs/2507.06229)|null|
 |**2025-07-08**|**Unconditional Diffusion for Generative Sequential Recommendation**|Tat-Seng Chua Team|[2507.06121](http://arxiv.org/abs/2507.06121)|null|
 |**2025-07-07**|**Heterogeneous Causal Learning for Optimizing Aggregated Functions in User Growth**|Will Y. Zou Team|[2507.05510](http://arxiv.org/abs/2507.05510)|null|
@@ -254,6 +265,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Zachary Manchester Team|[2507.11447](http://arxiv.org/abs/2507.11447)|null|
 |**2025-07-14**|**Devanagari Handwritten Character Recognition using Convolutional Neural Network**|Prateek Mehta Team|[2507.10398](http://arxiv.org/abs/2507.10398)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Changjae Oh Team|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
 |**2025-07-09**|**Evaluating Large Multimodal Models for Nutrition Analysis: A Benchmark Enriched with Contextual Metadata**|Fengqing Zhu Team|[2507.07048](http://arxiv.org/abs/2507.07048)|null|
@@ -284,6 +296,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Physics-Informed Transfer Learning for Data-Driven Sound Source Reconstruction in Near-Field Acoustic Holography**|Augusto Sarti Team|[2507.11070](http://arxiv.org/abs/2507.11070)|null|
+|**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Jing Dong Team|[2507.11052](http://arxiv.org/abs/2507.11052)|null|
+|**2025-07-15**|**Domain-Adaptive Small Language Models for Structured Tax Code Prediction**|Luiz Perez Team|[2507.10880](http://arxiv.org/abs/2507.10880)|null|
+|**2025-07-14**|**HEIMDALL: a grapH-based sEIsMic Detector And Locator for microseismicity**|Davide Bacciu Team|[2507.10850](http://arxiv.org/abs/2507.10850)|null|
+|**2025-07-14**|**Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**|Roland Kuhn Team|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-14**|**National level satellite-based crop field inventories in smallholder landscapes**|Patrick Meyfroidt Team|[2507.10499](http://arxiv.org/abs/2507.10499)|null|
 |**2025-07-14**|**Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence**|Junbo Zhao Team|[2507.10281](http://arxiv.org/abs/2507.10281)|null|
 |**2025-07-14**|**Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval**|Zhedong Zheng Team|[2507.10195](http://arxiv.org/abs/2507.10195)|null|
@@ -349,6 +366,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Object-Centric Mobile Manipulation through SAM2-Guided Perception and Imitation Learning**|Jun Morimoto Team|[2507.10899](http://arxiv.org/abs/2507.10899)|null|
+|**2025-07-14**|**Versatile and Generalizable Manipulation via Goal-Conditioned Reinforcement Learning with Grounded Object Detection**|Colin Bellinger Team|[2507.10814](http://arxiv.org/abs/2507.10814)|null|
 |**2025-07-14**|**Foundation Model Driven Robotics: A Comprehensive Review**|Ammar Waheed Team|[2507.10087](http://arxiv.org/abs/2507.10087)|null|
 |**2025-07-14**|**Hand Gesture Recognition for Collaborative Robots Using Lightweight Deep Learning in Real-Time Robotic Systems**|Mauridhi Hery Purnomo Team|[2507.10055](http://arxiv.org/abs/2507.10055)|null|
 |**2025-07-07**|**A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**|Russ Tedrake Team|[2507.05331](http://arxiv.org/abs/2507.05331)|null|
@@ -378,6 +397,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Rossella Arcucci Team|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
+|**2025-07-15**|**Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities**|Yang Zhang Team|[2507.11155](http://arxiv.org/abs/2507.11155)|null|
+|**2025-07-15**|**Assessing Color Vision Test in Large Vision-language Models**|Hongyang Chen Team|[2507.11153](http://arxiv.org/abs/2507.11153)|null|
+|**2025-07-15**|**MSA at ImageCLEF 2025 Multimodal Reasoning: Multilingual Multimodal Reasoning With Ensemble Vision Language Models**|Hamza Moustafa Team|[2507.11114](http://arxiv.org/abs/2507.11114)|null|
+|**2025-07-15**|**Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander**|Lei Chen Team|[2507.11079](http://arxiv.org/abs/2507.11079)|null|
+|**2025-07-15**|**Bridge Feature Matching and Cross-Modal Alignment with Mutual-filtering for Zero-shot Anomaly Detection**|Guanzhong Tian Team|[2507.11003](http://arxiv.org/abs/2507.11003)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Xiaojuan Qi Team|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Yi Wang Team|[2507.10449](http://arxiv.org/abs/2507.10449)|null|
 |**2025-07-14**|**Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**|Bin Luo Team|[2507.10355](http://arxiv.org/abs/2507.10355)|null|
