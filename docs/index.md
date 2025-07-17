@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
@@ -60,7 +60,7 @@ layout: default
 |**2025-07-10**|**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**|Navid Azizan Team|[2506.22827](http://arxiv.org/abs/2506.22827)|null|
 |**2025-06-24**|**FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models**|Huiping Zhuang Team|[2506.21627](http://arxiv.org/abs/2506.21627)|null|
 |**2025-06-26**|**MedPrompt: LLM-CNN Fusion with Weight Routing for Medical Image Segmentation and Classification**|Abduz Zami Team|[2506.21199](http://arxiv.org/abs/2506.21199)|null|
-|**2025-06-26**|**STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner**|Yue Yufeng Team|[2506.21030](http://arxiv.org/abs/2506.21030)|null|
+|**2025-07-16**|**STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner**|Yufeng Yue Team|[2506.21030](http://arxiv.org/abs/2506.21030)|null|
 |**2025-06-25**|**SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning**|Yusuke Iwasawa Team|[2506.20394](http://arxiv.org/abs/2506.20394)|null|
 |**2025-06-30**|**Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning**|Tamim Asfour Team|[2506.19592](http://arxiv.org/abs/2506.19592)|null|
 |**2025-06-23**|**Safety-Aware Optimal Scheduling for Autonomous Masonry Construction using Collaborative Heterogeneous Aerial Robots**|George Nikolakopoulos Team|[2506.18697](http://arxiv.org/abs/2506.18697)|null|
