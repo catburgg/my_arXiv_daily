@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-15**|**NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization**|Qijun Chen Team|[2507.10894](http://arxiv.org/abs/2507.10894)|null|
 |**2025-07-14**|**React to This (RTT): A Nonverbal Turing Test for Embodied AI**|Angelica Lim Team|[2507.10812](http://arxiv.org/abs/2507.10812)|null|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Irfan Hussain Team|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
@@ -73,6 +75,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Zhuotao Tian Team|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
+|**2025-07-16**|**Open-Vocabulary Indoor Object Grounding with 3D Hierarchical Scene Graph**|Gleb Naumov Team|[2507.12123](http://arxiv.org/abs/2507.12123)|null|
 |**2025-07-15**|**Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**|Fatih Porikli Team|[2507.11030](http://arxiv.org/abs/2507.11030)|null|
 |**2025-07-14**|**LLM-Guided Agentic Object Detection for Open-World Understanding**|Yasin Yilmaz Team|[2507.10844](http://arxiv.org/abs/2507.10844)|null|
 |**2025-07-14**|**OpenHuman4D: Open-Vocabulary 4D Human Parsing**|Truong Nguyen Team|[2507.09880](http://arxiv.org/abs/2507.09880)|null|
@@ -108,6 +112,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Yasuhisa Hasegawa Team|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
+|**2025-07-16**|**Open-Vocabulary Indoor Object Grounding with 3D Hierarchical Scene Graph**|Gleb Naumov Team|[2507.12123](http://arxiv.org/abs/2507.12123)|null|
 |**2025-07-14**|**Warehouse Spatial Question Answering with LLM Agent**|Jenq-Neng Hwang Team|[2507.10778](http://arxiv.org/abs/2507.10778)|null|
 |**2025-07-14**|**Spatial Reasoners for Continuous Variables in Any Domain**|Jan Eric Lenssen Team|[2507.10768](http://arxiv.org/abs/2507.10768)|null|
 |**2025-07-14**|**CWNet: Causal Wavelet Network for Low-Light Image Enhancement**|Qiuzhan Zhou Team|[2507.10689](http://arxiv.org/abs/2507.10689)|null|
@@ -238,6 +244,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-16**|**A Multimodal Data Fusion Generative Adversarial Network for Real Time Underwater Sound Speed Field Construction**|Hao Zhang Team|[2507.11812](http://arxiv.org/abs/2507.11812)|null|
+|**2025-07-15**|**Deciphering Delivery Mobility: A City-Scale, Path-Reconstructed Trajectory Dataset of Instant Delivery Riders**|Zuopeng Xiao Team|[2507.11584](http://arxiv.org/abs/2507.11584)|null|
 |**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Zachary Manchester Team|[2507.11447](http://arxiv.org/abs/2507.11447)|null|
 |**2025-07-14**|**Devanagari Handwritten Character Recognition using Convolutional Neural Network**|Prateek Mehta Team|[2507.10398](http://arxiv.org/abs/2507.10398)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Changjae Oh Team|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
@@ -267,6 +276,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Hybrid Ensemble Approaches: Optimal Deep Feature Fusion and Hyperparameter-Tuned Classifier Ensembling for Enhanced Brain Tumor Classification**|Jihie Kim Team|[2507.12177](http://arxiv.org/abs/2507.12177)|null|
+|**2025-07-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Fanman Meng Team|[2507.12017](http://arxiv.org/abs/2507.12017)|null|
+|**2025-07-16**|**Dual form Complementary Masking for Domain-Adaptive Image Segmentation**|Zhiwei Xiong Team|[2507.12008](http://arxiv.org/abs/2507.12008)|null|
 |**2025-07-15**|**Physics-Informed Transfer Learning for Data-Driven Sound Source Reconstruction in Near-Field Acoustic Holography**|Augusto Sarti Team|[2507.11070](http://arxiv.org/abs/2507.11070)|null|
 |**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Jing Dong Team|[2507.11052](http://arxiv.org/abs/2507.11052)|null|
 |**2025-07-15**|**Domain-Adaptive Small Language Models for Structured Tax Code Prediction**|Luiz Perez Team|[2507.10880](http://arxiv.org/abs/2507.10880)|null|
@@ -364,6 +376,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Min Xu Team|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Sihao Ding Team|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
+|**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Bernhard Kainz Team|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
+|**2025-07-16**|**InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing**|Wen-Huang Cheng Team|[2507.12060](http://arxiv.org/abs/2507.12060)|null|
+|**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Rongrong Ji Team|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
+|**2025-07-16**|**POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering**|Qin Jin Team|[2507.11939](http://arxiv.org/abs/2507.11939)|null|
+|**2025-07-15**|**Seeing the Signs: A Survey of Edge-Deployable OCR Models for Billboard Visibility Analysis**|Lihang Ying Team|[2507.11730](http://arxiv.org/abs/2507.11730)|null|
 |**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Rossella Arcucci Team|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
 |**2025-07-15**|**Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities**|Yang Zhang Team|[2507.11155](http://arxiv.org/abs/2507.11155)|null|
 |**2025-07-15**|**Assessing Color Vision Test in Large Vision-language Models**|Hongyang Chen Team|[2507.11153](http://arxiv.org/abs/2507.11153)|null|
