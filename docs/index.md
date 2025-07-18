@@ -2,15 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
-|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
+|**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-15**|**NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization**|Qijun Chen Team|[2507.10894](http://arxiv.org/abs/2507.10894)|null|
 |**2025-07-14**|**React to This (RTT): A Nonverbal Turing Test for Embodied AI**|Angelica Lim Team|[2507.10812](http://arxiv.org/abs/2507.10812)|null|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Irfan Hussain Team|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
@@ -75,6 +77,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**|Bihan Wen Team|[2507.12857](http://arxiv.org/abs/2507.12857)|null|
+|**2025-07-17**|**osmAG-LLM: Zero-Shot Open-Vocabulary Object Navigation via Semantic Maps and Large Language Models Reasoning**|Hermann Blum Team|[2507.12753](http://arxiv.org/abs/2507.12753)|null|
+|**2025-07-16**|**NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting**|Chaoli Wang Team|[2507.12621](http://arxiv.org/abs/2507.12621)|null|
 |**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Zhuotao Tian Team|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
 |**2025-07-16**|**Open-Vocabulary Indoor Object Grounding with 3D Hierarchical Scene Graph**|Gleb Naumov Team|[2507.12123](http://arxiv.org/abs/2507.12123)|null|
 |**2025-07-15**|**Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**|Fatih Porikli Team|[2507.11030](http://arxiv.org/abs/2507.11030)|null|
@@ -112,6 +117,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**A Translation of Probabilistic Event Calculus into Markov Decision Processes**|Luke Dickens Team|[2507.12989](http://arxiv.org/abs/2507.12989)|null|
+|**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Zhenning Li Team|[2507.12762](http://arxiv.org/abs/2507.12762)|null|
+|**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Chuang Gan Team|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
 |**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Yasuhisa Hasegawa Team|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
 |**2025-07-16**|**Open-Vocabulary Indoor Object Grounding with 3D Hierarchical Scene Graph**|Gleb Naumov Team|[2507.12123](http://arxiv.org/abs/2507.12123)|null|
 |**2025-07-14**|**Warehouse Spatial Question Answering with LLM Agent**|Jenq-Neng Hwang Team|[2507.10778](http://arxiv.org/abs/2507.10778)|null|
@@ -186,6 +194,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality**|Mingming Fan Team|[2507.13247](http://arxiv.org/abs/2507.13247)|null|
+|**2025-07-17**|**Emergence of Functionally Differentiated Structures via Mutual Information Optimization in Recurrent Neural Networks**|Yutaka Yamaguti Team|[2507.12858](http://arxiv.org/abs/2507.12858)|null|
+|**2025-07-17**|**Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering**|Shayegan Omidshafiei Team|[2507.12846](http://arxiv.org/abs/2507.12846)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Jiwen Lu Team|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Tianming Liu Team|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-10**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Wangchunshu Zhou Team|[2507.06229](http://arxiv.org/abs/2507.06229)|null|
@@ -213,6 +224,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**A Translation of Probabilistic Event Calculus into Markov Decision Processes**|Luke Dickens Team|[2507.12989](http://arxiv.org/abs/2507.12989)|null|
+|**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Zhenning Li Team|[2507.12762](http://arxiv.org/abs/2507.12762)|null|
 |**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Guillaume Rabusseau Team|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
 |**2025-07-13**|**GLIMPSE: Do Large Vision-Language Models Truly Think With Videos or Just Glimpse at Them?**|Huaxiu Yao Team|[2507.09491](http://arxiv.org/abs/2507.09491)|null|
 |**2025-07-12**|**Online Long-term Point Tracking in the Foundation Model Era**|Görkay Aydemir Team|[2507.09217](http://arxiv.org/abs/2507.09217)|null|
@@ -244,7 +257,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-17**|**Latent Policy Steering with Embodiment-Agnostic Pretrained World Models**|Jeff Schneider Team|[2507.13340](http://arxiv.org/abs/2507.13340)|null|
+|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-16**|**A Multimodal Data Fusion Generative Adversarial Network for Real Time Underwater Sound Speed Field Construction**|Hao Zhang Team|[2507.11812](http://arxiv.org/abs/2507.11812)|null|
 |**2025-07-15**|**Deciphering Delivery Mobility: A City-Scale, Path-Reconstructed Trajectory Dataset of Instant Delivery Riders**|Zuopeng Xiao Team|[2507.11584](http://arxiv.org/abs/2507.11584)|null|
 |**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Zachary Manchester Team|[2507.11447](http://arxiv.org/abs/2507.11447)|null|
@@ -276,6 +290,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Disentangling coincident cell events using deep transfer learning and compressive sensing**|Oliver Hayden Team|[2507.13176](http://arxiv.org/abs/2507.13176)|null|
+|**2025-07-17**|**Improving Diagnostic Accuracy of Pigmented Skin Lesions With CNNs: an Application on the DermaMNIST Dataset**|Medina Kapo Team|[2507.12961](http://arxiv.org/abs/2507.12961)|null|
+|**2025-07-17**|**IDS-Net: A novel framework for few-shot photovoltaic power prediction with interpretable dynamic selection and feature information fusion**|Dunnan Liu Team|[2507.12745](http://arxiv.org/abs/2507.12745)|null|
+|**2025-07-17**|**A Privacy-Preserving Semantic-Segmentation Method Using Domain-Adaptation Technique**|Hitoshi Kiya Team|[2507.12730](http://arxiv.org/abs/2507.12730)|null|
+|**2025-07-16**|**Improving physics-informed neural network extrapolation via transfer learning and adaptive activation functions**|Zhandong Liu Team|[2507.12659](http://arxiv.org/abs/2507.12659)|null|
+|**2025-07-16**|**Best Practices for Large-Scale, Pixel-Wise Crop Mapping and Transfer Learning Workflows**|Molly Sears Team|[2507.12590](http://arxiv.org/abs/2507.12590)|null|
+|**2025-07-14**|**Quantum Transfer Learning to Boost Dementia Detection**|Himanshu Thapliyal Team|[2507.12485](http://arxiv.org/abs/2507.12485)|null|
 |**2025-07-16**|**Hybrid Ensemble Approaches: Optimal Deep Feature Fusion and Hyperparameter-Tuned Classifier Ensembling for Enhanced Brain Tumor Classification**|Jihie Kim Team|[2507.12177](http://arxiv.org/abs/2507.12177)|null|
 |**2025-07-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Fanman Meng Team|[2507.12017](http://arxiv.org/abs/2507.12017)|null|
 |**2025-07-16**|**Dual form Complementary Masking for Domain-Adaptive Image Segmentation**|Zhiwei Xiong Team|[2507.12008](http://arxiv.org/abs/2507.12008)|null|
@@ -376,7 +397,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Jiaya Jia Team|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pravendra Singh Team|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
+|**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Shifeng Chen Team|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
+|**2025-07-17**|**Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection**|Changwen Zheng Team|[2507.13061](http://arxiv.org/abs/2507.13061)|null|
+|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-17**|**City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning**|Xiaowen Chu Team|[2507.12795](http://arxiv.org/abs/2507.12795)|null|
+|**2025-07-16**|**VLMgineer: Vision Language Models as Robotic Toolsmiths**|Dinesh Jayaraman Team|[2507.12644](http://arxiv.org/abs/2507.12644)|null|
+|**2025-07-16**|**NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting**|Chaoli Wang Team|[2507.12621](http://arxiv.org/abs/2507.12621)|null|
+|**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Chuang Gan Team|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
+|**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Xinge Zhu Team|[2507.12499](http://arxiv.org/abs/2507.12499)|null|
+|**2025-07-15**|**Spatially Grounded Explanations in Vision Language Models for Document Visual Question Answering**|Dimosthenis Karatzas Team|[2507.12490](http://arxiv.org/abs/2507.12490)|null|
+|**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Min Xu Team|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
 |**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Sihao Ding Team|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
 |**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Bernhard Kainz Team|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
