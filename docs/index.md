@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
@@ -12,7 +12,7 @@ layout: default
 |**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
 |**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
-|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-15**|**NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization**|Qijun Chen Team|[2507.10894](http://arxiv.org/abs/2507.10894)|null|
 |**2025-07-14**|**React to This (RTT): A Nonverbal Turing Test for Embodied AI**|Angelica Lim Team|[2507.10812](http://arxiv.org/abs/2507.10812)|null|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Irfan Hussain Team|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
@@ -199,7 +199,7 @@ layout: default
 |**2025-07-17**|**Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering**|Shayegan Omidshafiei Team|[2507.12846](http://arxiv.org/abs/2507.12846)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Jiwen Lu Team|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Tianming Liu Team|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
-|**2025-07-10**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Wangchunshu Zhou Team|[2507.06229](http://arxiv.org/abs/2507.06229)|null|
+|**2025-07-17**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Wangchunshu Zhou Team|[2507.06229](http://arxiv.org/abs/2507.06229)|null|
 |**2025-07-08**|**Unconditional Diffusion for Generative Sequential Recommendation**|Tat-Seng Chua Team|[2507.06121](http://arxiv.org/abs/2507.06121)|null|
 |**2025-07-07**|**Heterogeneous Causal Learning for Optimizing Aggregated Functions in User Growth**|Will Y. Zou Team|[2507.05510](http://arxiv.org/abs/2507.05510)|null|
 |**2025-07-07**|**Dynamical Archetype Analysis: Autonomous Computation**|Il Memming Park Team|[2507.05505](http://arxiv.org/abs/2507.05505)|null|
@@ -258,7 +258,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-17**|**Latent Policy Steering with Embodiment-Agnostic Pretrained World Models**|Jeff Schneider Team|[2507.13340](http://arxiv.org/abs/2507.13340)|null|
-|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-16**|**A Multimodal Data Fusion Generative Adversarial Network for Real Time Underwater Sound Speed Field Construction**|Hao Zhang Team|[2507.11812](http://arxiv.org/abs/2507.11812)|null|
 |**2025-07-15**|**Deciphering Delivery Mobility: A City-Scale, Path-Reconstructed Trajectory Dataset of Instant Delivery Riders**|Zuopeng Xiao Team|[2507.11584](http://arxiv.org/abs/2507.11584)|null|
 |**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Zachary Manchester Team|[2507.11447](http://arxiv.org/abs/2507.11447)|null|
@@ -416,7 +416,7 @@ layout: default
 |**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Rongrong Ji Team|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
 |**2025-07-16**|**POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering**|Qin Jin Team|[2507.11939](http://arxiv.org/abs/2507.11939)|null|
 |**2025-07-15**|**Seeing the Signs: A Survey of Edge-Deployable OCR Models for Billboard Visibility Analysis**|Lihang Ying Team|[2507.11730](http://arxiv.org/abs/2507.11730)|null|
-|**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Rossella Arcucci Team|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
+|**2025-07-18**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Rossella Arcucci Team|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
 |**2025-07-15**|**Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities**|Yang Zhang Team|[2507.11155](http://arxiv.org/abs/2507.11155)|null|
 |**2025-07-15**|**Assessing Color Vision Test in Large Vision-language Models**|Hongyang Chen Team|[2507.11153](http://arxiv.org/abs/2507.11153)|null|
 |**2025-07-15**|**MSA at ImageCLEF 2025 Multimodal Reasoning: Multilingual Multimodal Reasoning With Ensemble Vision Language Models**|Hamza Moustafa Team|[2507.11114](http://arxiv.org/abs/2507.11114)|null|
