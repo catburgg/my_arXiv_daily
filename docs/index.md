@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
 |**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
@@ -49,6 +50,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Bo Yuan Team|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
 |**2025-07-15**|**From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League**|Shohei Yasuda Team|[2507.11402](http://arxiv.org/abs/2507.11402)|null|
 |**2025-07-10**|**Goal-Oriented Sequential Bayesian Experimental Design for Causal Learning**|Xun Huan Team|[2507.07359](http://arxiv.org/abs/2507.07359)|null|
 |**2025-07-09**|**LOVON: Legged Open-Vocabulary Object Navigator**|Jun Ma Team|[2507.06747](http://arxiv.org/abs/2507.06747)|null|
@@ -77,6 +79,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop**|Mehar Khurana Team|[2507.13363](http://arxiv.org/abs/2507.13363)|null|
+|**2025-07-04**|**Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives**|Xizhe Xue Team|[2507.13359](http://arxiv.org/abs/2507.13359)|null|
 |**2025-07-17**|**SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**|Bihan Wen Team|[2507.12857](http://arxiv.org/abs/2507.12857)|null|
 |**2025-07-17**|**osmAG-LLM: Zero-Shot Open-Vocabulary Object Navigation via Semantic Maps and Large Language Models Reasoning**|Hermann Blum Team|[2507.12753](http://arxiv.org/abs/2507.12753)|null|
 |**2025-07-16**|**NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting**|Chaoli Wang Team|[2507.12621](http://arxiv.org/abs/2507.12621)|null|
@@ -117,6 +121,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Towards Constraint Temporal Answer Set Programming**|Igor Stéphan Team|[2507.13958](http://arxiv.org/abs/2507.13958)|null|
+|**2025-07-18**|**Cross-modal Causal Intervention for Alzheimer's Disease Prediction**|Tianrui Li Team|[2507.13956](http://arxiv.org/abs/2507.13956)|null|
+|**2025-07-16**|**DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning**|Philip S. Yu Team|[2507.13396](http://arxiv.org/abs/2507.13396)|null|
 |**2025-07-17**|**A Translation of Probabilistic Event Calculus into Markov Decision Processes**|Luke Dickens Team|[2507.12989](http://arxiv.org/abs/2507.12989)|null|
 |**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Zhenning Li Team|[2507.12762](http://arxiv.org/abs/2507.12762)|null|
 |**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Chuang Gan Team|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
@@ -166,6 +173,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Estimating Cognitive Effort from Functional Near-Infrared Spectroscopy (fNIRS) Signals using Machine Learning**|Roghayeh Leila Barmaki Team|[2507.13952](http://arxiv.org/abs/2507.13952)|null|
 |**2025-07-13**|**GoalfyMax: A Protocol-Driven Multi-Agent System for Intelligent Experience Entities**|Tianyu Shi Team|[2507.09497](http://arxiv.org/abs/2507.09497)|null|
 |**2025-07-10**|**Collaborative Human-Robot Surgery for Mandibular Angle Split Osteotomy: Optical Tracking based Approach**|Xingguang Duan Team|[2507.07794](http://arxiv.org/abs/2507.07794)|null|
 |**2025-07-10**|**PLAN-TUNING: Post-Training Language Models to Learn Step-by-Step Planning for Complex Problem Solving**|Tomas Pfister Team|[2507.07495](http://arxiv.org/abs/2507.07495)|null|
@@ -194,6 +202,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-04**|**VLMs have Tunnel Vision: Evaluating Nonlocal Visual Reasoning in Leading VLMs**|Jia Deng Team|[2507.13361](http://arxiv.org/abs/2507.13361)|null|
 |**2025-07-17**|**RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality**|Mingming Fan Team|[2507.13247](http://arxiv.org/abs/2507.13247)|null|
 |**2025-07-17**|**Emergence of Functionally Differentiated Structures via Mutual Information Optimization in Recurrent Neural Networks**|Yutaka Yamaguti Team|[2507.12858](http://arxiv.org/abs/2507.12858)|null|
 |**2025-07-17**|**Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering**|Shayegan Omidshafiei Team|[2507.12846](http://arxiv.org/abs/2507.12846)|null|
@@ -224,6 +233,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Towards Constraint Temporal Answer Set Programming**|Igor Stéphan Team|[2507.13958](http://arxiv.org/abs/2507.13958)|null|
+|**2025-07-16**|**DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning**|Philip S. Yu Team|[2507.13396](http://arxiv.org/abs/2507.13396)|null|
 |**2025-07-17**|**A Translation of Probabilistic Event Calculus into Markov Decision Processes**|Luke Dickens Team|[2507.12989](http://arxiv.org/abs/2507.12989)|null|
 |**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Zhenning Li Team|[2507.12762](http://arxiv.org/abs/2507.12762)|null|
 |**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Guillaume Rabusseau Team|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
@@ -257,6 +268,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Aleksandr Gordeev Team|[2507.14119](http://arxiv.org/abs/2507.14119)|null|
+|**2025-07-18**|**CPC-CMS: Cognitive Pairwise Comparison Classification Model Selection Framework for Document-level Sentiment Analysis**|Kevin Kam Fung Yuen Team|[2507.14022](http://arxiv.org/abs/2507.14022)|null|
 |**2025-07-17**|**Latent Policy Steering with Embodiment-Agnostic Pretrained World Models**|Jeff Schneider Team|[2507.13340](http://arxiv.org/abs/2507.13340)|null|
 |**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-16**|**A Multimodal Data Fusion Generative Adversarial Network for Real Time Underwater Sound Speed Field Construction**|Hao Zhang Team|[2507.11812](http://arxiv.org/abs/2507.11812)|null|
@@ -290,6 +303,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**SuperCM: Improving Semi-Supervised Learning and Domain Adaptation through differentiable clustering**|Michael Kampffmeyer Team|[2507.13779](http://arxiv.org/abs/2507.13779)|null|
+|**2025-07-18**|**ISAC: From Human to Environmental Sensing**|Y. Jay Guo Team|[2507.13766](http://arxiv.org/abs/2507.13766)|null|
+|**2025-07-18**|**CU-ICU: Customizing Unsupervised Instruction-Finetuned Language Models for ICU Datasets via Text-to-Text Transfer Transformer**|Teerapong Panboonyuen Team|[2507.13655](http://arxiv.org/abs/2507.13655)|null|
+|**2025-07-17**|**Addressing the ML Domain Adaptation Problem for Networking: Realistic and Controllable Training Data Generation with NetReplica**|Walter Willinger Team|[2507.13476](http://arxiv.org/abs/2507.13476)|null|
 |**2025-07-17**|**Disentangling coincident cell events using deep transfer learning and compressive sensing**|Oliver Hayden Team|[2507.13176](http://arxiv.org/abs/2507.13176)|null|
 |**2025-07-17**|**Improving Diagnostic Accuracy of Pigmented Skin Lesions With CNNs: an Application on the DermaMNIST Dataset**|Medina Kapo Team|[2507.12961](http://arxiv.org/abs/2507.12961)|null|
 |**2025-07-17**|**IDS-Net: A novel framework for few-shot photovoltaic power prediction with interpretable dynamic selection and feature information fusion**|Dunnan Liu Team|[2507.12745](http://arxiv.org/abs/2507.12745)|null|
@@ -397,6 +414,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**VLA-Mark: A cross modal watermark for large vision-language alignment model**|Xuming Hu Team|[2507.14067](http://arxiv.org/abs/2507.14067)|null|
+|**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
+|**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Sharon X. Huang Team|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
+|**2025-07-18**|**When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models**|Alberto Cazzaniga Team|[2507.13868](http://arxiv.org/abs/2507.13868)|null|
+|**2025-07-18**|**Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions**|Jiajun Zhang Team|[2507.13773](http://arxiv.org/abs/2507.13773)|null|
+|**2025-07-17**|**LoRA-Loop: Closing the Synthetic Replay Cycle for Continual VLM Learning**|Margrit Betke Team|[2507.13568](http://arxiv.org/abs/2507.13568)|null|
+|**2025-07-17**|**COREVQA: A Crowd Observation and Reasoning Entailment Visual Question Answering Benchmark**|Vasu Sharma Team|[2507.13405](http://arxiv.org/abs/2507.13405)|null|
 |**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Jiaya Jia Team|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
 |**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pravendra Singh Team|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
 |**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Shifeng Chen Team|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
