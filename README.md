@@ -1,4 +1,4 @@
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
-|**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-20**|**PhysX-3D: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-15**|**NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization**|Qijun Chen Team|[2507.10894](http://arxiv.org/abs/2507.10894)|null|
 |**2025-07-14**|**React to This (RTT): A Nonverbal Turing Test for Embodied AI**|Angelica Lim Team|[2507.10812](http://arxiv.org/abs/2507.10812)|null|
@@ -59,7 +59,7 @@
 |**2025-07-01**|**A Survey: Learning Embodied Intelligence from Physical Simulators and World Models**|Qionghai Dai Team|[2507.00917](http://arxiv.org/abs/2507.00917)|null|
 |**2025-07-01**|**Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding**|Bo Zhao Team|[2507.00416](http://arxiv.org/abs/2507.00416)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Long-horizon Planning
 
@@ -90,7 +90,7 @@
 |**2025-06-20**|**Towards AI Search Paradigm**|Dawei Yin Team|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
 |**2025-06-20**|**Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning**|Guillaume Adrien Sartoretti Team|[2506.16931](http://arxiv.org/abs/2506.16931)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Open Vocabulary Robotics
 
@@ -134,7 +134,7 @@
 |**2025-06-23**|**Context Biasing for Pronunciations-Orthography Mismatch in Automatic Speech Recognition**|Alexander Waibel Team|[2506.18703](http://arxiv.org/abs/2506.18703)|null|
 |**2025-06-21**|**DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving**|Zhengzhong Tu Team|[2506.17590](http://arxiv.org/abs/2506.17590)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Robot Reasoning
 
@@ -188,7 +188,7 @@
 |**2025-06-29**|**Enhancing Spatial Reasoning in Multimodal Large Language Models through Reasoning-based Segmentation**|Li Jiang Team|[2506.23120](http://arxiv.org/abs/2506.23120)|null|
 |**2025-06-28**|**MARBLE: A Hard Benchmark for Multimodal Spatial Reasoning and Planning**|Michael Moor Team|[2506.22992](http://arxiv.org/abs/2506.22992)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Subtask Decomposition
 
@@ -219,7 +219,7 @@
 |**2025-05-28**|**Learning Composable Chains-of-Thought**|Greg Durrett Team|[2505.22635](http://arxiv.org/abs/2505.22635)|null|
 |**2025-05-28**|**AudioGenie: A Training-Free Multi-Agent Framework for Diverse Multimodality-to-Multiaudio Generation**|Li Liu Team|[2505.22053](http://arxiv.org/abs/2505.22053)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Robot Memory
 
@@ -252,7 +252,7 @@
 |**2025-07-03**|**Reliability-Adjusted Prioritized Experience Replay**|Maximilian Schiffer Team|[2506.18482](http://arxiv.org/abs/2506.18482)|null|
 |**2025-06-22**|**Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation**|Teng Li Team|[2506.18158](http://arxiv.org/abs/2506.18158)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Temporal Understanding
 
@@ -289,7 +289,7 @@
 |**2025-06-24**|**DaMO: A Data-Efficient Multimodal Orchestrator for Temporal Reasoning with Video LLMs**|Feng-Chi Chen Team|[2506.11558](http://arxiv.org/abs/2506.11558)|null|
 |**2025-06-12**|**VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos**|Limin Wang Team|[2506.10857](http://arxiv.org/abs/2506.10857)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Robot Datasets
 
@@ -326,7 +326,7 @@
 |**2025-06-16**|**What Matters in Learning from Large-Scale Datasets for Robot Manipulation**|Danfei Xu Team|[2506.13536](http://arxiv.org/abs/2506.13536)|null|
 |**2025-06-11**|**R-CARLA: High-Fidelity Sensor Simulations with Interchangeable Dynamics for Autonomous Racing**|Michele Magno Team|[2506.09629](http://arxiv.org/abs/2506.09629)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Multi-task Learning
 
@@ -348,9 +348,9 @@
 |**2025-07-16**|**Dual form Complementary Masking for Domain-Adaptive Image Segmentation**|Zhiwei Xiong Team|[2507.12008](http://arxiv.org/abs/2507.12008)|null|
 |**2025-07-15**|**Physics-Informed Transfer Learning for Data-Driven Sound Source Reconstruction in Near-Field Acoustic Holography**|Augusto Sarti Team|[2507.11070](http://arxiv.org/abs/2507.11070)|null|
 |**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Jing Dong Team|[2507.11052](http://arxiv.org/abs/2507.11052)|null|
-|**2025-07-15**|**Domain-Adaptive Small Language Models for Structured Tax Code Prediction**|Luiz Perez Team|[2507.10880](http://arxiv.org/abs/2507.10880)|null|
+|**2025-07-19**|**Domain-Adaptive Small Language Models for Structured Tax Code Prediction**|Luis Perez Team|[2507.10880](http://arxiv.org/abs/2507.10880)|null|
 |**2025-07-14**|**HEIMDALL: a grapH-based sEIsMic Detector And Locator for microseismicity**|Davide Bacciu Team|[2507.10850](http://arxiv.org/abs/2507.10850)|null|
-|**2025-07-14**|**Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**|Roland Kuhn Team|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
+|**2025-07-20**|**Supporting SENCOTEN Language Documentation Efforts with Automatic Speech Recognition**|Roland Kuhn Team|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-14**|**National level satellite-based crop field inventories in smallholder landscapes**|Patrick Meyfroidt Team|[2507.10499](http://arxiv.org/abs/2507.10499)|null|
 |**2025-07-14**|**Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence**|Junbo Zhao Team|[2507.10281](http://arxiv.org/abs/2507.10281)|null|
 |**2025-07-14**|**Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval**|Zhedong Zheng Team|[2507.10195](http://arxiv.org/abs/2507.10195)|null|
@@ -410,7 +410,7 @@
 |**2025-07-06**|**Mixed-Sample SGD: an End-to-end Analysis of Supervised Transfer Learning**|Samory Kpotufe Team|[2507.04194](http://arxiv.org/abs/2507.04194)|null|
 |**2025-07-05**|**When Data-Free Knowledge Distillation Meets Non-Transferable Teacher: Escaping Out-of-Distribution Trap is All You Need**|Tongliang Liu Team|[2507.04119](http://arxiv.org/abs/2507.04119)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Robot Foundation Models
 
@@ -441,7 +441,7 @@
 |**2025-05-17**|**OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning**|Yang Gao Team|[2505.11917](http://arxiv.org/abs/2505.11917)|null|
 |**2025-05-15**|**Towards Safe Robot Foundation Models Using Inductive Biases**|Jan Peters Team|[2505.10219](http://arxiv.org/abs/2505.10219)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Vision Language Models
 
@@ -465,7 +465,7 @@
 |**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Chuang Gan Team|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
 |**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Xinge Zhu Team|[2507.12499](http://arxiv.org/abs/2507.12499)|null|
 |**2025-07-15**|**Spatially Grounded Explanations in Vision Language Models for Document Visual Question Answering**|Dimosthenis Karatzas Team|[2507.12490](http://arxiv.org/abs/2507.12490)|null|
-|**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-20**|**PhysX-3D: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Min Xu Team|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
 |**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Sihao Ding Team|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
 |**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Bernhard Kainz Team|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
@@ -556,5 +556,5 @@
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Cheng Lu Team|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
 |**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Rao Muhammad Anwer Team|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
