@@ -22,8 +22,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
+|**2025-07-21**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
+|**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Xinlei Chen Team|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
-|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
 |**2025-07-20**|**PhysX-3D: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
@@ -65,6 +68,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**FlowForge: Guiding the Creation of Multi-agent Workflows with Design Space Visualization as a Thinking Scaffold**|Qianwen Wang Team|[2507.15559](http://arxiv.org/abs/2507.15559)|null|
+|**2025-07-20**|**FCRF: Flexible Constructivism Reflection for Long-Horizon Robotic Task Planning with Large Language Models**|Shiqiang Zhu Team|[2507.14975](http://arxiv.org/abs/2507.14975)|null|
 |**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Bo Yuan Team|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
 |**2025-07-15**|**From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League**|Shohei Yasuda Team|[2507.11402](http://arxiv.org/abs/2507.11402)|null|
 |**2025-07-10**|**Goal-Oriented Sequential Bayesian Experimental Design for Causal Learning**|Xun Huan Team|[2507.07359](http://arxiv.org/abs/2507.07359)|null|
@@ -96,6 +101,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting**|Bo Dai Team|[2507.15454](http://arxiv.org/abs/2507.15454)|null|
+|**2025-07-19**|**From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Situation Recognition**|Soo Chin Liew Team|[2507.14686](http://arxiv.org/abs/2507.14686)|null|
+|**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Loïc Barthe Team|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
 |**2025-07-06**|**Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop**|Mehar Khurana Team|[2507.13363](http://arxiv.org/abs/2507.13363)|null|
 |**2025-07-04**|**Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives**|Xizhe Xue Team|[2507.13359](http://arxiv.org/abs/2507.13359)|null|
 |**2025-07-17**|**SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**|Bihan Wen Team|[2507.12857](http://arxiv.org/abs/2507.12857)|null|
@@ -140,6 +148,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Yueting Zhuang Team|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
+|**2025-07-20**|**FinChart-Bench: Benchmarking Financial Chart Comprehension in Vision-Language Models**|Mengnan Du Team|[2507.14823](http://arxiv.org/abs/2507.14823)|null|
+|**2025-07-19**|**XplainAct: Visualization for Personalized Intervention Insights**|Klaus Mueller Team|[2507.14767](http://arxiv.org/abs/2507.14767)|null|
+|**2025-07-18**|**Can AR-Embedded Visualizations Foster Appropriate Reliance on AI in Spatial Decision Making? A Comparative Study of AR See-Through vs. 2D Minimap**|Chen Zhu-Tian Team|[2507.14316](http://arxiv.org/abs/2507.14316)|null|
+|**2025-07-18**|**How LLMs Comprehend Temporal Meaning in Narratives: A Case Study in Cognitive Evaluation of LLMs**|Dongyeop Kang Team|[2507.14307](http://arxiv.org/abs/2507.14307)|null|
 |**2025-07-18**|**Towards Constraint Temporal Answer Set Programming**|Igor Stéphan Team|[2507.13958](http://arxiv.org/abs/2507.13958)|null|
 |**2025-07-18**|**Cross-modal Causal Intervention for Alzheimer's Disease Prediction**|Tianrui Li Team|[2507.13956](http://arxiv.org/abs/2507.13956)|null|
 |**2025-07-16**|**DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning**|Philip S. Yu Team|[2507.13396](http://arxiv.org/abs/2507.13396)|null|
@@ -194,6 +207,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Assessing the Reliability of Large Language Models for Deductive Qualitative Coding: A Comparative Study of ChatGPT Interventions**|Elliott Hauser Team|[2507.14384](http://arxiv.org/abs/2507.14384)|null|
+|**2025-07-14**|**DeepWriter: A Fact-Grounded Multimodal Writing Assistant Based On Offline Knowledge Base**|Botian Shi Team|[2507.14189](http://arxiv.org/abs/2507.14189)|null|
 |**2025-07-18**|**Estimating Cognitive Effort from Functional Near-Infrared Spectroscopy (fNIRS) Signals using Machine Learning**|Roghayeh Leila Barmaki Team|[2507.13952](http://arxiv.org/abs/2507.13952)|null|
 |**2025-07-13**|**GoalfyMax: A Protocol-Driven Multi-Agent System for Intelligent Experience Entities**|Tianyu Shi Team|[2507.09497](http://arxiv.org/abs/2507.09497)|null|
 |**2025-07-10**|**Collaborative Human-Robot Surgery for Mandibular Angle Split Osteotomy: Optical Tracking based Approach**|Xingguang Duan Team|[2507.07794](http://arxiv.org/abs/2507.07794)|null|
@@ -295,6 +310,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Data-Driven MPC with Data Selection for Flexible Cable-Driven Robotic Arms**|Long Zeng Team|[2507.15677](http://arxiv.org/abs/2507.15677)|null|
 |**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Aleksandr Gordeev Team|[2507.14119](http://arxiv.org/abs/2507.14119)|null|
 |**2025-07-18**|**CPC-CMS: Cognitive Pairwise Comparison Classification Model Selection Framework for Document-level Sentiment Analysis**|Kevin Kam Fung Yuen Team|[2507.14022](http://arxiv.org/abs/2507.14022)|null|
 |**2025-07-17**|**Latent Policy Steering with Embodiment-Agnostic Pretrained World Models**|Jeff Schneider Team|[2507.13340](http://arxiv.org/abs/2507.13340)|null|
@@ -332,6 +348,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Sufficiency-principled Transfer Learning via Model Averaging**|Xinyu Zhang Team|[2507.15416](http://arxiv.org/abs/2507.15416)|null|
+|**2025-07-21**|**Universal crystal material property prediction via multi-view geometric fusion in graph transformers**|Yuen Wu Team|[2507.15303](http://arxiv.org/abs/2507.15303)|null|
+|**2025-07-21**|**IM-Chat: A Multi-agent LLM-based Framework for Knowledge Transfer in Injection Molding Industry**|Seunghwa Ryu Team|[2507.15268](http://arxiv.org/abs/2507.15268)|null|
+|**2025-07-20**|**A Case Against Implicit Standards: Homophone Normalization in Machine Translation for Languages that use the Ge'ez Script**|Seid Muhie Yimam Team|[2507.15142](http://arxiv.org/abs/2507.15142)|null|
+|**2025-07-20**|**Deep Generative Models in Condition and Structural Health Monitoring: Opportunities, Limitations and Future Outlook**|Dimitrios Chronopoulos Team|[2507.15026](http://arxiv.org/abs/2507.15026)|null|
+|**2025-07-20**|**PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing**|Chia-Wen Lin Team|[2507.14826](http://arxiv.org/abs/2507.14826)|null|
+|**2025-07-20**|**Omni-Think: Scaling Cross-Domain Generalization in LLMs via Multi-Task RL with Hybrid Rewards**|Yingxue Zhang Team|[2507.14783](http://arxiv.org/abs/2507.14783)|null|
+|**2025-07-19**|**GTPBD: A Fine-Grained Global Terraced Parcel and Boundary Dataset**|Juepeng Zheng Team|[2507.14697](http://arxiv.org/abs/2507.14697)|null|
+|**2025-07-19**|**Rethinking Suicidal Ideation Detection: A Trustworthy Annotation Framework and Cross-Lingual Model Evaluation**|Ulya Bayram Team|[2507.14693](http://arxiv.org/abs/2507.14693)|null|
+|**2025-07-19**|**When few labeled target data suffice: a theory of semi-supervised domain adaptation via fine-tuning from multiple adaptive starts**|Yuansi Chen Team|[2507.14661](http://arxiv.org/abs/2507.14661)|null|
+|**2025-07-19**|**Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2**|You Zhang Team|[2507.14613](http://arxiv.org/abs/2507.14613)|null|
+|**2025-07-19**|**Towards a Proactive Autoscaling Framework for Data Stream Processing at the Edge using GRU and Transfer Learning**|Linda Amoako Bannning Team|[2507.14597](http://arxiv.org/abs/2507.14597)|null|
+|**2025-07-19**|**Parameter-transfer in spatial autoregressive models via model averaging**|Xinyu Zhang Team|[2507.14453](http://arxiv.org/abs/2507.14453)|null|
+|**2025-07-19**|**IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark**|Ruiheng Zhang Team|[2507.14449](http://arxiv.org/abs/2507.14449)|null|
+|**2025-07-18**|**Language Models as Ontology Encoders**|Ian Horrocks Team|[2507.14334](http://arxiv.org/abs/2507.14334)|null|
 |**2025-07-18**|**SuperCM: Improving Semi-Supervised Learning and Domain Adaptation through differentiable clustering**|Michael Kampffmeyer Team|[2507.13779](http://arxiv.org/abs/2507.13779)|null|
 |**2025-07-18**|**ISAC: From Human to Environmental Sensing**|Y. Jay Guo Team|[2507.13766](http://arxiv.org/abs/2507.13766)|null|
 |**2025-07-18**|**CU-ICU: Customizing Unsupervised Instruction-Finetuned Language Models for ICU Datasets via Text-to-Text Transfer Transformer**|Teerapong Panboonyuen Team|[2507.13655](http://arxiv.org/abs/2507.13655)|null|
@@ -447,6 +478,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Jiaqi Wang Team|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
+|**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Erkut Erdem Team|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
+|**2025-07-21**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Jiarun Song Team|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Margret Keuper Team|[2507.15576](http://arxiv.org/abs/2507.15576)|null|
+|**2025-07-21**|**HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation**|Robby T. Tan Team|[2507.15542](http://arxiv.org/abs/2507.15542)|null|
+|**2025-07-21**|**Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner**|Lin Ma Team|[2507.15509](http://arxiv.org/abs/2507.15509)|null|
+|**2025-07-21**|**One Last Attention for Your Vision-Language Model**|Zhiqiang Shen Team|[2507.15480](http://arxiv.org/abs/2507.15480)|null|
+|**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Xinlei Chen Team|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
+|**2025-07-21**|**In-context Learning of Vision Language Models for Detection of Physical and Digital Attacks against Face Recognition Systems**|Christoph Busch Team|[2507.15285](http://arxiv.org/abs/2507.15285)|null|
+|**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Tong Heng Lee Team|[2507.15266](http://arxiv.org/abs/2507.15266)|null|
+|**2025-07-20**|**Survey of GenAI for Automotive Software Development: From Requirements to Executable Code**|Alois Knoll Team|[2507.15025](http://arxiv.org/abs/2507.15025)|null|
+|**2025-07-20**|**Hierarchical Cross-modal Prompt Learning for Vision-Language Models**|Zhenhua Huang Team|[2507.14976](http://arxiv.org/abs/2507.14976)|null|
+|**2025-07-20**|**FinChart-Bench: Benchmarking Financial Chart Comprehension in Vision-Language Models**|Mengnan Du Team|[2507.14823](http://arxiv.org/abs/2507.14823)|null|
+|**2025-07-19**|**IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark**|Ruiheng Zhang Team|[2507.14449](http://arxiv.org/abs/2507.14449)|null|
+|**2025-07-18**|**CLIPTTA: Robust Contrastive Vision-Language Test-Time Adaptation**|Nicolas Thome Team|[2507.14312](http://arxiv.org/abs/2507.14312)|null|
+|**2025-07-18**|**In-Depth and In-Breadth: Pre-training Multimodal Language Models Customized for Comprehensive Chart Understanding**|Leonid Sigal Team|[2507.14298](http://arxiv.org/abs/2507.14298)|null|
 |**2025-07-18**|**VLA-Mark: A cross modal watermark for large vision-language alignment model**|Xuming Hu Team|[2507.14067](http://arxiv.org/abs/2507.14067)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Sharon X. Huang Team|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
