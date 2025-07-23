@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Fu-En Yang Team|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
 |**2025-07-22**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
 |**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Xinlei Chen Team|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
@@ -68,6 +69,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Fast Task Planning with Neuro-Symbolic Relaxation**|Chen Wang Team|[2507.15975](http://arxiv.org/abs/2507.15975)|null|
 |**2025-07-21**|**FlowForge: Guiding the Creation of Multi-agent Workflows with Design Space Visualization as a Thinking Scaffold**|Qianwen Wang Team|[2507.15559](http://arxiv.org/abs/2507.15559)|null|
 |**2025-07-20**|**FCRF: Flexible Constructivism Reflection for Long-Horizon Robotic Task Planning with Large Language Models**|Shiqiang Zhu Team|[2507.14975](http://arxiv.org/abs/2507.14975)|null|
 |**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Bo Yuan Team|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
@@ -101,6 +103,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Detect Any Sound: Open-Vocabulary Sound Event Detection with Multi-Modal Queries**|Ian McLoughlin Team|[2507.16343](http://arxiv.org/abs/2507.16343)|null|
 |**2025-07-21**|**ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting**|Bo Dai Team|[2507.15454](http://arxiv.org/abs/2507.15454)|null|
 |**2025-07-19**|**From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Situation Recognition**|Soo Chin Liew Team|[2507.14686](http://arxiv.org/abs/2507.14686)|null|
 |**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Loïc Barthe Team|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
@@ -148,6 +151,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Temporally-Constrained Video Reasoning Segmentation and Automated Benchmark Construction**|Mathias Unberath Team|[2507.16718](http://arxiv.org/abs/2507.16718)|null|
+|**2025-07-22**|**Explicit Context Reasoning with Supervision for Visual Tracking**|Shuxiang Song Team|[2507.16191](http://arxiv.org/abs/2507.16191)|null|
 |**2025-07-22**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Yueting Zhuang Team|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
 |**2025-07-20**|**FinChart-Bench: Benchmarking Financial Chart Comprehension in Vision-Language Models**|Mengnan Du Team|[2507.14823](http://arxiv.org/abs/2507.14823)|null|
 |**2025-07-19**|**XplainAct: Visualization for Personalized Intervention Insights**|Klaus Mueller Team|[2507.14767](http://arxiv.org/abs/2507.14767)|null|
@@ -240,6 +245,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|James Glass Team|[2507.16784](http://arxiv.org/abs/2507.16784)|null|
+|**2025-07-22**|**Analogy making as amortised model construction**|Peter Dayan Team|[2507.16511](http://arxiv.org/abs/2507.16511)|null|
+|**2025-07-22**|**Explicit Context Reasoning with Supervision for Visual Tracking**|Shuxiang Song Team|[2507.16191](http://arxiv.org/abs/2507.16191)|null|
+|**2025-07-16**|**Autonomic Arousal in Social Anxiety: An Electrodermal Activity Study During an Emotionally Salient Cognitive Task**|Haroon R Lone Team|[2507.15871](http://arxiv.org/abs/2507.15871)|null|
 |**2025-07-04**|**VLMs have Tunnel Vision: Evaluating Nonlocal Visual Reasoning in Leading VLMs**|Jia Deng Team|[2507.13361](http://arxiv.org/abs/2507.13361)|null|
 |**2025-07-17**|**RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality**|Mingming Fan Team|[2507.13247](http://arxiv.org/abs/2507.13247)|null|
 |**2025-07-17**|**Emergence of Functionally Differentiated Structures via Mutual Information Optimization in Recurrent Neural Networks**|Yutaka Yamaguti Team|[2507.12858](http://arxiv.org/abs/2507.12858)|null|
@@ -273,6 +282,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Temporally-Constrained Video Reasoning Segmentation and Automated Benchmark Construction**|Mathias Unberath Team|[2507.16718](http://arxiv.org/abs/2507.16718)|null|
+|**2025-07-22**|**Explicit Context Reasoning with Supervision for Visual Tracking**|Shuxiang Song Team|[2507.16191](http://arxiv.org/abs/2507.16191)|null|
 |**2025-07-18**|**Towards Constraint Temporal Answer Set Programming**|Igor Stéphan Team|[2507.13958](http://arxiv.org/abs/2507.13958)|null|
 |**2025-07-16**|**DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning**|Philip S. Yu Team|[2507.13396](http://arxiv.org/abs/2507.13396)|null|
 |**2025-07-17**|**A Translation of Probabilistic Event Calculus into Markov Decision Processes**|Luke Dickens Team|[2507.12989](http://arxiv.org/abs/2507.12989)|null|
@@ -310,6 +321,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning**|Pengfei Liu Team|[2507.16812](http://arxiv.org/abs/2507.16812)|null|
+|**2025-07-15**|**An open dataset of neural networks for hypernetwork research**|Lior Shamir Team|[2507.15869](http://arxiv.org/abs/2507.15869)|null|
 |**2025-07-21**|**Data-Driven MPC with Data Selection for Flexible Cable-Driven Robotic Arms**|Long Zeng Team|[2507.15677](http://arxiv.org/abs/2507.15677)|null|
 |**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Aleksandr Gordeev Team|[2507.14119](http://arxiv.org/abs/2507.14119)|null|
 |**2025-07-18**|**CPC-CMS: Cognitive Pairwise Comparison Classification Model Selection Framework for Document-level Sentiment Analysis**|Kevin Kam Fung Yuen Team|[2507.14022](http://arxiv.org/abs/2507.14022)|null|
@@ -348,6 +361,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Improving U-Net Confidence on TEM Image Data with L2-Regularization, Transfer Learning, and Deep Fine-Tuning**|Xing Wang Team|[2507.16779](http://arxiv.org/abs/2507.16779)|null|
+|**2025-07-22**|**Synthetic Data Matters: Re-training with Geo-typical Synthetic Labels for Building Detection**|Rongjun Qin Team|[2507.16657](http://arxiv.org/abs/2507.16657)|null|
+|**2025-07-22**|**Towards Railway Domain Adaptation for LiDAR-based 3D Detection: Road-to-Rail and Sim-to-Real via SynDRA-BBox**|Giorgio Buttazzo Team|[2507.16413](http://arxiv.org/abs/2507.16413)|null|
+|**2025-07-22**|**Continuous Test-time Domain Adaptation for Efficient Fault Detection under Evolving Operating Conditions**|Olga Fink Team|[2507.16354](http://arxiv.org/abs/2507.16354)|null|
+|**2025-07-22**|**Perovskite-R1: A Domain-Specialized LLM for Intelligent Discovery of Precursor Additives and Experimental Design**|Zhong-Yi Lu Team|[2507.16307](http://arxiv.org/abs/2507.16307)|null|
+|**2025-07-21**|**An empirical study for the early detection of Mpox from skin lesion images using pretrained CNN models leveraging XAI technique**|Ahmed Moustafa Team|[2507.15915](http://arxiv.org/abs/2507.15915)|null|
 |**2025-07-21**|**Sufficiency-principled Transfer Learning via Model Averaging**|Xinyu Zhang Team|[2507.15416](http://arxiv.org/abs/2507.15416)|null|
 |**2025-07-21**|**Universal crystal material property prediction via multi-view geometric fusion in graph transformers**|Yuen Wu Team|[2507.15303](http://arxiv.org/abs/2507.15303)|null|
 |**2025-07-21**|**IM-Chat: A Multi-agent LLM-based Framework for Knowledge Transfer in Injection Molding Industry**|Seunghwa Ryu Team|[2507.15268](http://arxiv.org/abs/2507.15268)|null|
@@ -478,6 +497,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Kai Chen Team|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
+|**2025-07-22**|**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**|Arslan Munir Team|[2507.16781](http://arxiv.org/abs/2507.16781)|null|
+|**2025-07-22**|**Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation**|Ke Yang Team|[2507.16716](http://arxiv.org/abs/2507.16716)|null|
+|**2025-07-22**|**Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory**|Marco Hutter Team|[2507.16713](http://arxiv.org/abs/2507.16713)|null|
+|**2025-07-22**|**Spatial 3D-LLM: Exploring Spatial Awareness in 3D Vision-Language Models**|Chao Zhang Team|[2507.16524](http://arxiv.org/abs/2507.16524)|null|
+|**2025-07-22**|**SceneLoom: Communicating Data with Scene Context**|Siming Chen Team|[2507.16466](http://arxiv.org/abs/2507.16466)|null|
+|**2025-07-22**|**Quality Text, Robust Vision: The Role of Language in Enhancing Visual Robustness of Vision-Language Models**|Isao Echizen Team|[2507.16257](http://arxiv.org/abs/2507.16257)|null|
 |**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Jiaqi Wang Team|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Erkut Erdem Team|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
 |**2025-07-22**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Jiarun Song Team|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
