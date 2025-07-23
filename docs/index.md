@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
-|**2025-07-21**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
+|**2025-07-22**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
 |**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Xinlei Chen Team|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
@@ -129,7 +129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-21**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Yueting Zhuang Team|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
+|**2025-07-22**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Yueting Zhuang Team|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
 |**2025-07-20**|**FinChart-Bench: Benchmarking Financial Chart Comprehension in Vision-Language Models**|Mengnan Du Team|[2507.14823](http://arxiv.org/abs/2507.14823)|null|
 |**2025-07-19**|**XplainAct: Visualization for Personalized Intervention Insights**|Klaus Mueller Team|[2507.14767](http://arxiv.org/abs/2507.14767)|null|
 |**2025-07-18**|**Can AR-Embedded Visualizations Foster Appropriate Reliance on AI in Spatial Decision Making? A Comparative Study of AR See-Through vs. 2D Minimap**|Chen Zhu-Tian Team|[2507.14316](http://arxiv.org/abs/2507.14316)|null|
@@ -146,7 +146,7 @@ layout: default
 |**2025-07-14**|**Spatial Reasoners for Continuous Variables in Any Domain**|Jan Eric Lenssen Team|[2507.10768](http://arxiv.org/abs/2507.10768)|null|
 |**2025-07-14**|**CWNet: Causal Wavelet Network for Low-Light Image Enhancement**|Qiuzhan Zhou Team|[2507.10689](http://arxiv.org/abs/2507.10689)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Xiaojuan Qi Team|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
-|**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Guillaume Rabusseau Team|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
+|**2025-07-22**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Guillaume Rabusseau Team|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
 |**2025-07-13**|**GLIMPSE: Do Large Vision-Language Models Truly Think With Videos or Just Glimpse at Them?**|Huaxiu Yao Team|[2507.09491](http://arxiv.org/abs/2507.09491)|null|
 |**2025-07-12**|**Online Long-term Point Tracking in the Foundation Model Era**|Görkay Aydemir Team|[2507.09217](http://arxiv.org/abs/2507.09217)|null|
 |**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Subarna Tripathi Team|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
@@ -193,7 +193,7 @@ layout: default
 |**2025-07-10**|**Collaborative Human-Robot Surgery for Mandibular Angle Split Osteotomy: Optical Tracking based Approach**|Xingguang Duan Team|[2507.07794](http://arxiv.org/abs/2507.07794)|null|
 |**2025-07-10**|**PLAN-TUNING: Post-Training Language Models to Learn Step-by-Step Planning for Complex Problem Solving**|Tomas Pfister Team|[2507.07495](http://arxiv.org/abs/2507.07495)|null|
 |**2025-06-26**|**ViStruct: Simulating Expert-Like Reasoning Through Task Decomposition and Visual Attention Cues**|Carolina Nobre Team|[2506.21762](http://arxiv.org/abs/2506.21762)|null|
-|**2025-06-26**|**Hierarchical Reasoning Model**|Yasin Abbasi Yadkori Team|[2506.21734](http://arxiv.org/abs/2506.21734)|null|
+|**2025-07-22**|**Hierarchical Reasoning Model**|Yasin Abbasi Yadkori Team|[2506.21734](http://arxiv.org/abs/2506.21734)|null|
 |**2025-06-20**|**Automatic Large Language Models Creation of Interactive Learning Lessons**|Kenneth R. Koedinger Team|[2506.17356](http://arxiv.org/abs/2506.17356)|null|
 |**2025-06-20**|**Chain-of-Trust: A Progressive Trust Evaluation Framework Enabled by Generative AI**|Shen Team|[2506.17130](http://arxiv.org/abs/2506.17130)|null|
 |**2025-06-18**|**DeckFlow: Iterative Specification on a Multimodal Generative Canvas**|Cyrus Omar Team|[2506.15873](http://arxiv.org/abs/2506.15873)|null|
@@ -237,7 +237,7 @@ layout: default
 |**2025-07-02**|**Characterizing control between interacting subsystems with deep Jacobian estimation**|Ila R. Fiete Team|[2507.01946](http://arxiv.org/abs/2507.01946)|null|
 |**2025-06-23**|**Catastrophic Forgetting Mitigation via Discrepancy-Weighted Experience Replay**|Shan Jiang Team|[2507.00042](http://arxiv.org/abs/2507.00042)|null|
 |**2025-06-30**|**Ella: Embodied Social Agents with Lifelong Memory**|Chuang Gan Team|[2506.24019](http://arxiv.org/abs/2506.24019)|null|
-|**2025-06-26**|**GroundFlow: A Plug-in Module for Temporal Reasoning on 3D Point Cloud Sequential Grounding**|Bihan Wen Team|[2506.21188](http://arxiv.org/abs/2506.21188)|null|
+|**2025-07-22**|**GroundFlow: A Plug-in Module for Temporal Reasoning on 3D Point Cloud Sequential Grounding**|Bihan Wen Team|[2506.21188](http://arxiv.org/abs/2506.21188)|null|
 |**2025-06-26**|**FedDAA: Dynamic Client Clustering for Concept Drift Adaptation in Federated Learning**|Ming Tang Team|[2506.21054](http://arxiv.org/abs/2506.21054)|null|
 |**2025-06-25**|**THIRDEYE: Cue-Aware Monocular Depth Estimation via Brain-Inspired Multi-Stage Fusion**|Calin Teodor Ioan Team|[2506.20877](http://arxiv.org/abs/2506.20877)|null|
 |**2025-06-26**|**From Memories to Maps: Mechanisms of In-Context Reinforcement Learning in Transformers**|Kanaka Rajan Team|[2506.19686](http://arxiv.org/abs/2506.19686)|null|
@@ -252,7 +252,7 @@ layout: default
 |**2025-07-16**|**DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning**|Philip S. Yu Team|[2507.13396](http://arxiv.org/abs/2507.13396)|null|
 |**2025-07-17**|**A Translation of Probabilistic Event Calculus into Markov Decision Processes**|Luke Dickens Team|[2507.12989](http://arxiv.org/abs/2507.12989)|null|
 |**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Zhenning Li Team|[2507.12762](http://arxiv.org/abs/2507.12762)|null|
-|**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Guillaume Rabusseau Team|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
+|**2025-07-22**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Guillaume Rabusseau Team|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
 |**2025-07-13**|**GLIMPSE: Do Large Vision-Language Models Truly Think With Videos or Just Glimpse at Them?**|Huaxiu Yao Team|[2507.09491](http://arxiv.org/abs/2507.09491)|null|
 |**2025-07-12**|**Online Long-term Point Tracking in the Foundation Model Era**|Görkay Aydemir Team|[2507.09217](http://arxiv.org/abs/2507.09217)|null|
 |**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|Jiangmiao Pang Team|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
@@ -445,9 +445,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Jiaqi Wang Team|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
+|**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Jiaqi Wang Team|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Erkut Erdem Team|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
-|**2025-07-21**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Jiarun Song Team|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-22**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Jiarun Song Team|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
 |**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Margret Keuper Team|[2507.15576](http://arxiv.org/abs/2507.15576)|null|
 |**2025-07-21**|**HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation**|Robby T. Tan Team|[2507.15542](http://arxiv.org/abs/2507.15542)|null|
 |**2025-07-21**|**Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner**|Lin Ma Team|[2507.15509](http://arxiv.org/abs/2507.15509)|null|
