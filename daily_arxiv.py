@@ -128,11 +128,20 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_url = arxiv_url + 'abs/' + paper_key
         
         try:
-            # source code link    
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+            resp = requests.get(code_url)
+            if resp.status_code == 200 and 'application/json' in resp.headers.get('Content-Type', ''):
+                r = resp.json()
+                repo_url = None
+                if "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
+            else:
+                repo_url = None
+            
+            if not repo_url and comments:
+                # 用正则提取 http/https 链接
+                urls = re.findall(r'(https?://[^\s,;]+)', comments)
+                if urls:
+                    repo_url = urls[0]  # 取第一个链接
             # TODO: not found, two more chances  
             # else: 
             #    repo_url = get_code_link(paper_title)
@@ -453,5 +462,3 @@ if __name__ == "__main__":
         print("Git commands executed successfully.")
     except subprocess.CalledProcessError as e:
         pass
-
-    
