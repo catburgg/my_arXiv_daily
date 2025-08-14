@@ -2,22 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.08.13
+## Updated on 2025.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-12**|**GeoVLA: Empowering 3D Representations in Vision-Language-Action Models**|Jiale Cao Team|[2508.09071](http://arxiv.org/abs/2508.09071)|**[link](https://linsun449.github.io/GeoVLA/)**|
+|**2025-08-13**|**GeoVLA: Empowering 3D Representations in Vision-Language-Action Models**|Jiale Cao Team|[2508.09071](http://arxiv.org/abs/2508.09071)|**[link](https://linsun449.github.io/GeoVLA/)**|
 |**2025-08-12**|**Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding**|Aleksandr I. Panov Team|[2508.09032](http://arxiv.org/abs/2508.09032)|null|
-|**2025-08-12**|**Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**|Hua Zou Team|[2508.08896](http://arxiv.org/abs/2508.08896)|null|
+|**2025-08-13**|**Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**|Hua Zou Team|[2508.08896](http://arxiv.org/abs/2508.08896)|null|
 |**2025-08-12**|**DiffPhysCam: Differentiable Physics-Based Camera Simulation for Inverse Rendering and Embodied AI**|Dan Negrut Team|[2508.08831](http://arxiv.org/abs/2508.08831)|null|
 |**2025-08-12**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|null|
 |**2025-08-11**|**ReferSplat: Referring Segmentation in 3D Gaussian Splatting**|Henghui Ding Team|[2508.08252](http://arxiv.org/abs/2508.08252)|**[link](https://github.com/heshuting555/ReferSplat)**|
 |**2025-08-11**|**Reinforcement Learning in Vision: A Survey**|Mike Zheng Shou Team|[2508.08189](http://arxiv.org/abs/2508.08189)|null|
-|**2025-08-11**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
-|**2025-08-11**|**AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation**|Lei Han Team|[2508.07770](http://arxiv.org/abs/2508.07770)|null|
+|**2025-08-12**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
+|**2025-08-13**|**AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation**|Lei Han Team|[2508.07770](http://arxiv.org/abs/2508.07770)|null|
 |**2025-08-11**|**GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions**|Hong Zhang Team|[2508.07650](http://arxiv.org/abs/2508.07650)|null|
 |**2025-08-10**|**FormCoach: Lift Smarter, Not Harder**|Lingjie Liu Team|[2508.07501](http://arxiv.org/abs/2508.07501)|null|
 |**2025-08-09**|**PANAMA: A Network-Aware MARL Framework for Multi-Agent Path Finding in Digital Twin Ecosystems**|Nimal Gamini Senarath Team|[2508.06767](http://arxiv.org/abs/2508.06767)|null|
@@ -212,7 +212,7 @@ layout: default
 |**2025-08-12**|**Understanding Dynamic Scenes in Ego Centric 4D Point Clouds**|Gaoang Wang Team|[2508.07251](http://arxiv.org/abs/2508.07251)|null|
 |**2025-08-09**|**ForeSight: Multi-View Streaming Joint Object Detection and Trajectory Forecasting**|Steven L. Waslander Team|[2508.07089](http://arxiv.org/abs/2508.07089)|null|
 |**2025-08-08**|**V*: An Efficient Motion Planning Algorithm for Autonomous Vehicles**|Glenn Geers Team|[2508.06404](http://arxiv.org/abs/2508.06404)|null|
-|**2025-08-08**|**InfoCausalQA:Can Models Perform Non-explicit Causal Reasoning Based on Infographic?**|Youngjae Yu Team|[2508.06220](http://arxiv.org/abs/2508.06220)|null|
+|**2025-08-13**|**InfoCausalQA:Can Models Perform Non-explicit Causal Reasoning Based on Infographic?**|Youngjae Yu Team|[2508.06220](http://arxiv.org/abs/2508.06220)|null|
 |**2025-08-08**|**SKATE, a Scalable Tournament Eval: Weaker LLMs differentiate between stronger ones using verifiable challenges**|Samuel F. Brown Team|[2508.06111](http://arxiv.org/abs/2508.06111)|null|
 |**2025-08-07**|**DeepPHY: Benchmarking Agentic VLMs on Physical Reasoning**|Bo Zheng Team|[2508.05405](http://arxiv.org/abs/2508.05405)|null|
 |**2025-08-07**|**B4DL: A Benchmark for 4D LiDAR LLM in Spatio-Temporal Understanding**|Junmo Kim Team|[2508.05269](http://arxiv.org/abs/2508.05269)|null|
@@ -438,7 +438,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-08-12**|**Load-Altering Attacks Against Power Grids: A Case Study Using the GB-36 Bus System Open Dataset**|Subhash Lakshminarayana Team|[2508.08945](http://arxiv.org/abs/2508.08945)|null|
-|**2025-08-11**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
+|**2025-08-12**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
 |**2025-08-11**|**AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning**|Yang Liu Team|[2508.07626](http://arxiv.org/abs/2508.07626)|null|
 |**2025-08-06**|**A tutorial note on collecting simulated data for vision-language-action models**|Jingfeng Zhang Team|[2508.06547](http://arxiv.org/abs/2508.06547)|null|
 |**2025-08-08**|**Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation**|Jingkuan Song Team|[2508.06426](http://arxiv.org/abs/2508.06426)|null|
@@ -619,7 +619,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-11**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
+|**2025-08-12**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
 |**2025-08-08**|**EcBot: Data-Driven Energy Consumption Open-Source MATLAB Library for Manipulators**|Mikkel Baun Kjærgaard Team|[2508.06276](http://arxiv.org/abs/2508.06276)|null|
 |**2025-08-06**|**Open Scene Graphs for Open-World Object-Goal Navigation**|David Hsu Team|[2508.04678](http://arxiv.org/abs/2508.04678)|null|
 |**2025-08-01**|**H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation**|Jun Zhu Team|[2507.23523](http://arxiv.org/abs/2507.23523)|null|
@@ -656,17 +656,17 @@ layout: default
 |**2025-08-12**|**OpenCUA: Open Foundations for Computer-Use Agents**|Tao Yu Team|[2508.09123](http://arxiv.org/abs/2508.09123)|null|
 |**2025-08-12**|**Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving**|Tian Ding Team|[2508.09099](http://arxiv.org/abs/2508.09099)|null|
 |**2025-08-12**|**Addressing Bias in VLMs for Glaucoma Detection Without Protected Attribute Supervision**|Prashnna Gyawali Team|[2508.09087](http://arxiv.org/abs/2508.09087)|null|
-|**2025-08-12**|**GeoVLA: Empowering 3D Representations in Vision-Language-Action Models**|Jiale Cao Team|[2508.09071](http://arxiv.org/abs/2508.09071)|**[link](https://linsun449.github.io/GeoVLA/)**|
+|**2025-08-13**|**GeoVLA: Empowering 3D Representations in Vision-Language-Action Models**|Jiale Cao Team|[2508.09071](http://arxiv.org/abs/2508.09071)|**[link](https://linsun449.github.io/GeoVLA/)**|
 |**2025-08-12**|**VLM-3D:End-to-End Vision-Language Models for Open-World 3D Perception**|Lei He Team|[2508.09061](http://arxiv.org/abs/2508.09061)|null|
 |**2025-08-12**|**MVISU-Bench: Benchmarking Mobile Agents for Real-World Tasks by Multi-App, Vague, Interactive, Single-App and Unethical Instructions**|Jin Xu Team|[2508.09057](http://arxiv.org/abs/2508.09057)|null|
 |**2025-08-12**|**Rational Inverse Reasoning**|Leslie Pack Kaelbling Team|[2508.08983](http://arxiv.org/abs/2508.08983)|null|
-|**2025-08-12**|**How Does a Virtual Agent Decide Where to Look? - Symbolic Cognitive Reasoning for Embodied Head Rotation**|Hyeongyeop Kang Team|[2508.08930](http://arxiv.org/abs/2508.08930)|null|
+|**2025-08-12**|**How Does a Virtual Agent Decide Where to Look? -- Symbolic Cognitive Reasoning for Embodied Head Rotation**|Hyeongyeop Kang Team|[2508.08930](http://arxiv.org/abs/2508.08930)|null|
 |**2025-08-12**|**Safe Semantics, Unsafe Interpretations: Tackling Implicit Reasoning Safety in Large Vision-Language Models**|Xuelong Li Team|[2508.08926](http://arxiv.org/abs/2508.08926)|null|
 |**2025-08-12**|**3DFroMLLM: 3D Prototype Generation only from Pretrained Multimodal LLMs**|Eddy Ilg Team|[2508.08821](http://arxiv.org/abs/2508.08821)|null|
 |**2025-08-12**|**SafeFix: Targeted Model Repair via Controlled Image Generation**|Yunhui Guo Team|[2508.08701](http://arxiv.org/abs/2508.08701)|null|
 |**2025-08-12**|**STELAR-VISION: Self-Topology-Aware Efficient Learning for Aligned Reasoning in Vision**|Marios Savvides Team|[2508.08688](http://arxiv.org/abs/2508.08688)|null|
 |**2025-08-12**|**AME: Aligned Manifold Entropy for Robust Vision-Language Distillation**|Yuming Ou Team|[2508.08644](http://arxiv.org/abs/2508.08644)|null|
-|**2025-08-12**|**Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization**|Hyunwoo J. Kim Team|[2508.08604](http://arxiv.org/abs/2508.08604)|null|
+|**2025-08-13**|**Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization**|Hyunwoo J. Kim Team|[2508.08604](http://arxiv.org/abs/2508.08604)|null|
 |**2025-08-12**|**Superclass-Guided Representation Disentanglement for Spurious Correlation Mitigation**|Qi Lei Team|[2508.08570](http://arxiv.org/abs/2508.08570)|null|
 |**2025-08-11**|**VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models**|Ravikumar Balakrishnan Team|[2508.08521](http://arxiv.org/abs/2508.08521)|null|
 |**2025-08-11**|**Re:Verse -- Can Your VLM Read a Manga?**|Shruti Vyas Team|[2508.08508](http://arxiv.org/abs/2508.08508)|null|
