@@ -1,4 +1,4 @@
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -87,7 +87,7 @@
 |**2025-07-01**|**A Survey: Learning Embodied Intelligence from Physical Simulators and World Models**|Qionghai Dai Team|[2507.00917](http://arxiv.org/abs/2507.00917)|null|
 |**2025-07-01**|**Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding**|Bo Zhao Team|[2507.00416](http://arxiv.org/abs/2507.00416)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Long-horizon Planning
 
@@ -142,7 +142,7 @@
 |**2025-06-20**|**Towards AI Search Paradigm**|Dawei Yin Team|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
 |**2025-06-20**|**Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning**|Guillaume Adrien Sartoretti Team|[2506.16931](http://arxiv.org/abs/2506.16931)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Open Vocabulary Robotics
 
@@ -212,7 +212,7 @@
 |**2025-06-23**|**Context Biasing for Pronunciations-Orthography Mismatch in Automatic Speech Recognition**|Alexander Waibel Team|[2506.18703](http://arxiv.org/abs/2506.18703)|null|
 |**2025-06-21**|**DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving**|Zhengzhong Tu Team|[2506.17590](http://arxiv.org/abs/2506.17590)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Robot Reasoning
 
@@ -295,7 +295,7 @@
 |**2025-06-29**|**Enhancing Spatial Reasoning in Multimodal Large Language Models through Reasoning-based Segmentation**|Li Jiang Team|[2506.23120](http://arxiv.org/abs/2506.23120)|null|
 |**2025-06-28**|**MARBLE: A Hard Benchmark for Multimodal Spatial Reasoning and Planning**|Michael Moor Team|[2506.22992](http://arxiv.org/abs/2506.22992)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Subtask Decomposition
 
@@ -344,7 +344,7 @@
 |**2025-05-28**|**Learning Composable Chains-of-Thought**|Greg Durrett Team|[2505.22635](http://arxiv.org/abs/2505.22635)|null|
 |**2025-05-28**|**AudioGenie: A Training-Free Multi-Agent Framework for Diverse Multimodality-to-Multiaudio Generation**|Li Liu Team|[2505.22053](http://arxiv.org/abs/2505.22053)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Robot Memory
 
@@ -401,7 +401,7 @@
 |**2025-07-03**|**Reliability-Adjusted Prioritized Experience Replay**|Maximilian Schiffer Team|[2506.18482](http://arxiv.org/abs/2506.18482)|null|
 |**2025-06-22**|**Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation**|Teng Li Team|[2506.18158](http://arxiv.org/abs/2506.18158)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Temporal Understanding
 
@@ -458,7 +458,7 @@
 |**2025-06-24**|**DaMO: A Data-Efficient Multimodal Orchestrator for Temporal Reasoning with Video LLMs**|Feng-Chi Chen Team|[2506.11558](http://arxiv.org/abs/2506.11558)|null|
 |**2025-06-12**|**VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos**|Limin Wang Team|[2506.10857](http://arxiv.org/abs/2506.10857)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Robot Datasets
 
@@ -511,7 +511,7 @@
 |**2025-06-16**|**What Matters in Learning from Large-Scale Datasets for Robot Manipulation**|Danfei Xu Team|[2506.13536](http://arxiv.org/abs/2506.13536)|null|
 |**2025-06-11**|**R-CARLA: High-Fidelity Sensor Simulations with Interchangeable Dynamics for Autonomous Racing**|Michele Magno Team|[2506.09629](http://arxiv.org/abs/2506.09629)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Multi-task Learning
 
@@ -644,7 +644,7 @@
 |**2025-07-06**|**Mixed-Sample SGD: an End-to-end Analysis of Supervised Transfer Learning**|Samory Kpotufe Team|[2507.04194](http://arxiv.org/abs/2507.04194)|null|
 |**2025-07-05**|**When Data-Free Knowledge Distillation Meets Non-Transferable Teacher: Escaping Out-of-Distribution Trap is All You Need**|Tongliang Liu Team|[2507.04119](http://arxiv.org/abs/2507.04119)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Robot Foundation Models
 
@@ -680,7 +680,7 @@
 |**2025-05-17**|**OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning**|Yang Gao Team|[2505.11917](http://arxiv.org/abs/2505.11917)|null|
 |**2025-05-15**|**Towards Safe Robot Foundation Models Using Inductive Biases**|Jan Peters Team|[2505.10219](http://arxiv.org/abs/2505.10219)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Vision Language Models
 
@@ -849,5 +849,5 @@
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Cheng Lu Team|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
 |**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Rao Muhammad Anwer Team|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
